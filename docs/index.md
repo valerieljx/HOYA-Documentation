@@ -8,7 +8,8 @@
 3. [Using Fabric Tools](./fabric_tools.md)
     - [Lakehouse](./fabric_tools/lakehouse.md)
     - [Notebook](./fabric_tools/notebook.md)
+4. [Architecture]()
+    - [Naming Conventions]()
+5. [Automation]()
 
-4. [Automation]()
-
-5. [Refereences](./references.md)
+6. [Refereences](./references.md)

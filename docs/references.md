@@ -1,0 +1,3 @@
+Microsoft. (2025, February 4). Microsoft Fabric. What is a lakehouse in Microsoft Fabric? Retrieved March 27, 2025, from [http://learn.microsoft.com/en-us/fabric/data-engineering/lakehouse-overview](http://learn.microsoft.com/en-us/fabric/data-engineering/lakehouse-overview)
+
+Microsoft. (2025, February 4). Microsoft Fabric. Create a lakehouse in Microsoft Fabric. Retrieved March 27, 2025, from [https://learn.microsoft.com/en-us/fabric/data-engineering/create-lakehouse](https://learn.microsoft.com/en-us/fabric/data-engineering/create-lakehouse)

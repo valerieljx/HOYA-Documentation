@@ -1,6 +1,9 @@
 # Store Data
 
-![Store Data items in Fabric](../images/store_data_items.png "image title")
+<figure markdown="span">
+  ![Fabric items under "Store Data"](../images/store_data_items.png)
+  <figcaption>Fabric items under "Store Data"</figcaption>
+</figure>
 
 While there are many items that can be utilised to store data, the main ones that are used are Lakehouses, SQL databases, semantic model and warehouses.
 
@@ -21,3 +24,5 @@ In this section, these terms will be defined.
 For more information, refer to [Using Fabric Tools: Lakehouse](../fabric_tools/lakehouse.md).
 
 ## Fabric SQL Database
+
+
