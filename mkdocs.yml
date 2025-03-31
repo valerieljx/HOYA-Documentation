@@ -1,0 +1,87 @@
+site_name: Documentation
+# Project information
+site_description: Documentation for Finance Fabric and Automation
+site_author: Nodoka Kushioka
+site_url: https://nodokakhoya.github.io/Documentation
+
+# Repository
+repo_name: nodokakhoya/Documentation
+repo_url: https://github.com/nodokakhoya/Documentation
+edit_uri: edit/main/
+
+# Copyright
+copyright: Copyright &copy; 2025 HOYA Surgical Optics
+
+# Configuration
+theme:
+  name: material
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.sections
+    - navigation.indexes
+    - navigation.expand
+    - navigation.top
+    - search.suggest
+    - search.highlight
+  palette:
+    # Light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    # Dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+# Extensions
+markdown_extensions:
+  - admonition
+  - codehilite
+  - footnotes
+  - meta
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - pymdownx.tabbed
+  - toc:
+      permalink: true
+
+# Plugins
+plugins:
+  - search
+  - awesome-pages
+  - git-revision-date-localized:
+      type: date
+  - minify:
+      minify_html: true
+  - pdf-export:
+      enabled_if_env: ENABLE_PDF_EXPORT
+
+# Navigation structure
+nav:
+  - Introduction: introduction.md
+  - Fabric Terminology: 
+      - Overview: terminology.md
+      - Get Data: terminology/get_data.md
+      - Store Data: terminology/store_data.md
+  - Using Fabric Tools:
+      - Overview: fabric_tools.md
+      - Lakehouse: fabric_tools/lakehouse.md
+      - Notebook: fabric_tools/notebook.md
+  - Automation: automation.md
+  - References: references.md
+
+# Additional settings
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/nodokakhoya
