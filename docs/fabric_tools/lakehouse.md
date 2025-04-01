@@ -77,6 +77,11 @@ There are 2 ways to create a Lakehouse. However, the 2nd method is more straight
 ![Schema Shortcut](../images/schema-shortcut.png)
 </figure>
 
+## Loading data into Lakehouse
+- Local file/folder upload: Upload data from your local machine directl to the File section of your lakehouse.
+
+- Notebook code:
+
 ## Interacting with Lakehouses
 
 - **Lakehouse explorer**: This is the main Lakehouse interaction page. You can load data into the Lakehouse, explore data in the Lakehouse using the object explorer, and various other things.
@@ -84,6 +89,7 @@ There are 2 ways to create a Lakehouse. However, the 2nd method is more straight
 - **Pipelines**: Data integration tools such as pipeline copy tool to pull data from other sources and land into the Lakehouse can be used.
 
 - **Dataflows Gen 2**: These can be used to ingest and prepare data.
+    - Use this if you are importing data from Sharepoint folder.
 
 ### Lakehouse Explorer
 
@@ -100,6 +106,12 @@ There are 2 ways to create a Lakehouse. However, the 2nd method is more straight
     - If this happens when you create new tables: Refresh the 'Unidentified' folder, and the tables should appear under the 'Tables' folder.
     - If unsupported files (e.g.: images, audio) are uploaded to the managed area, they will not be automatically detected and linked to tables.
         - Prompts the user to either remove these files from the managed area or transfer them to the File Section for further processing. 
+
+- **File Section**: Unamanged area of the lakehouse and can be considered a "landing zone" for raw data ingested from various sources.
+    - The data often requires additional processing. 
+    - Displays folder-level objects only. To view file-level objects, you need to utilize the Main View area.
+
+
 
 <div style="display: flex; justify-content: space-between;" markdown="1">
 

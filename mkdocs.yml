@@ -2,11 +2,11 @@ site_name: Finance Documentation
 # Project information
 site_description: Documentation for Finance Fabric and Automation
 site_author: Nodoka Kushioka
-site_url: https://nodokakhoya.github.io/Documentation
+site_url: https://nodokak1.github.io/Documentation
 
 # Repository
-repo_name: nodokakhoya/Documentation
-repo_url: https://github.com/nodokakhoya/Documentation
+repo_name: nodokak1/Documentation
+repo_url: https://github.com/nodokak1/Documentation
 edit_uri: edit/main/
 
 # Copyright
@@ -102,4 +102,4 @@ nav:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/nodokakhoya
+      link: https://github.com/nodokak1

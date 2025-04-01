@@ -1,0 +1,50 @@
+[data-md-color-scheme="hso"] {
+    --md-primary-fg-color:        #0057B8;
+    --md-primary-fg-color--light: #0057B8;
+    --md-primary-fg-color--dark:  #0057B8;
+    --md-accent-fg-color:      #0057B8;
+    --md-accent-fg-color--light: #0057B8;
+    --md-accent-fg-color--dark:  #0057B8;
+
+    --md-default-bg-color:        #ffffff;
+    --md-default-fg-color:        #000000;
+  }
+
+[data-md-color-scheme="hso-dark"] {
+    --md-primary-fg-color:        #0057B8;
+    --md-primary-fg-color--light: #0057B8;
+    --md-primary-fg-color--dark:  #0057B8;
+    --md-accent-fg-color:      #0057B8;
+    --md-accent-fg-color--light: #0057B8;
+    --md-accent-fg-color--dark:  #0057B8;
+    /* Slate-like dark theme */
+    --md-default-bg-color:        #1e293b; /* slate-800 */
+    --md-default-fg-color:        #f1f5f9; /* slate-100 */
+    --md-code-bg-color:           #0f172a; /* slate-900 */
+    --md-code-fg-color:           #e2e8f0; /* slate-200 */
+    --md-typeset-color:           #cbd5e1; /* slate-300 */
+    --md-typeset-a-color:         #93c5fd; /* slate-300 with blue hue */
+    --md-typeset-heading-color: #f8fafc;
+  } 
+
+
+[data-md-color-scheme="hso-dark"] h1,
+[data-md-color-scheme="hso-dark"] h2,
+[data-md-color-scheme="hso-dark"] h3,
+[data-md-color-scheme="hso-dark"] h4,
+[data-md-color-scheme="hso-dark"] h5,
+[data-md-color-scheme="hso-dark"] h6 {
+color: #f8fafc !important; 
+}
+
+/* Table of contents link color in dark mode */
+[data-md-color-scheme="hso-dark"] .md-nav__link,
+[data-md-color-scheme="hso-dark"] .md-nav__title,
+[data-md-color-scheme="hso-dark"] .md-nav__item {
+  color: #e2e8f0 !important; 
+}
+
+[data-md-color-scheme="hso-dark"] .md-nav__link:hover,
+[data-md-color-scheme="hso-dark"] .md-nav__link--active {
+  color: #ffffff !important; 
+}
