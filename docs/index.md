@@ -12,4 +12,4 @@
     - [Naming Conventions]()
 5. [Automation]()
 
-6. [Refereences](./references.md)
+6. [References](./references.md)
