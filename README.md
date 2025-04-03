@@ -54,6 +54,14 @@ Ensure that you have git installed and configured. Refer to [Git](https://git-sc
 
 - Pull all changes from main to your own branch using `git pull origin main`.
 
+## Installing Required Libraries
+
+First, navigate to the root directory of the repository using `cd YOUR\PATH\TO\DOWNLOADS\Documentation`.
+
+If you do not have mkdocs installed, open a terminal and install Material for MkDocs with `python pip install mkdocs-material`.
+
+To install all required libraries, run `python -m pip install -r docs/requirements.txt`
+
 ## Committing Code
 
 To contribute code to the main branch, follow these steps:
@@ -138,11 +146,3 @@ To share with others, make sure you deploy the website. The website can be deplo
 ```
 python -m mkdocs gh-deploy
 ```
-
-## Installing Required Libraries
-
-First, navigate to the root directory of the repository using `cd YOUR\PATH\TO\DOWNLOADS\Documentation`.
-
-If you do not have mkdocs installed, open a terminal and install Material for MkDocs with `python pip install mkdocs-material`.
-
-To install all required libraries, run `python -m pip install -r docs/requirements.txt`
