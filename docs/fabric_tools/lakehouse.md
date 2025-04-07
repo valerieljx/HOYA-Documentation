@@ -5,6 +5,7 @@
 There are 2 ways to create a Lakehouse. However, the 2nd method is more straightforward, and usually preferred.
 
 1. Data Engineering homepage
+
     - A Lakehouse can be created through the Lakehouse card under the 'New' section in the homepage.
 
     <figure markdown="span">
@@ -13,6 +14,7 @@ There are 2 ways to create a Lakehouse. However, the 2nd method is more straight
     </figure>
 
 2. Workspace view
+
     - A Lakehouse can be created in the workspace view under 'Store Data'
 
     <figure markdown="span">
@@ -39,6 +41,7 @@ There are 2 ways to create a Lakehouse. However, the 2nd method is more straight
 3. Navigate to the 'Store Data' section of the 'New Item' pane.
 
 4. Click on 'Lakehouse', and it should prompt you to name the Lakehouse, and select 'Create' once the Lakehouse is named. 
+
     - To enable schema support for the Lakehouse, check the box nect to Lakehouse schemas (Public Preview).
 
     <figure markdown="span">
@@ -78,9 +81,9 @@ There are 2 ways to create a Lakehouse. However, the 2nd method is more straight
 </figure>
 
 ## Loading data into Lakehouse
-- Local file/folder upload: Upload data from your local machine directl to the File section of your lakehouse.
+- **Local file/folder upload**: Upload data from your local machine directly to the File section of your lakehouse.
 
-- Notebook code:
+- **Notebook code**:
 
 ## Interacting with Lakehouses
 
@@ -89,6 +92,7 @@ There are 2 ways to create a Lakehouse. However, the 2nd method is more straight
 - **Pipelines**: Data integration tools such as pipeline copy tool to pull data from other sources and land into the Lakehouse can be used.
 
 - **Dataflows Gen 2**: These can be used to ingest and prepare data.
+
     - Use this if you are importing data from Sharepoint folder.
 
 ### Lakehouse Explorer
@@ -99,16 +103,23 @@ There are 2 ways to create a Lakehouse. However, the 2nd method is more straight
 </figure>
 
 - **Table Section**: All tables are stored here.
+
     - Organised and governed to facilitate efficient data processing and analysis.
+
     - You can select a table to preview, inspect the table schema, access underlying files, and execute various other actions related to the data.
 
 - **Unidentified Area**: Displays folders or files present in the managed area that lack associated tables in SyMS.
+
     - If this happens when you create new tables: Refresh the 'Unidentified' folder, and the tables should appear under the 'Tables' folder.
+
     - If unsupported files (e.g.: images, audio) are uploaded to the managed area, they will not be automatically detected and linked to tables.
+
         - Prompts the user to either remove these files from the managed area or transfer them to the File Section for further processing. 
 
 - **File Section**: Unamanged area of the lakehouse and can be considered a "landing zone" for raw data ingested from various sources.
+
     - The data often requires additional processing. 
+
     - Displays folder-level objects only. To view file-level objects, you need to utilize the Main View area.
 
 
