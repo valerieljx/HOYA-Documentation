@@ -2,7 +2,6 @@
 
 <figure markdown="span">
   ![Fabric items under "Store Data"](../images/store_data_items.png)
-  <figcaption>Fabric items under "Store Data"</figcaption>
 </figure>
 
 While there are many items that can be utilised to store data, the main ones that are used are Lakehouses, SQL databases, semantic model and warehouses.
@@ -21,8 +20,23 @@ In this section, these terms will be defined.
 
 - Every Lakehouse has one SQL Analytics Endpoint.
 
+- This can be used to connect to external sources such as Exce and Power BI reports.
+
 For more information, refer to [Using Fabric Tools: Lakehouse](../fabric_tools/lakehouse.md).
 
 ## Fabric SQL Database
 
+- Developer-friendly transactional database, based on Azue SQL Database, that allows you to easily create your operational databse in Fabric. 
+
+- Stores data in open-source Delta Lake format.
+
+- SQL database in fabric creates 3 items in your Fabric workspace:
+
+   - Data in your SQL database is automatically replicated of into the OneLake and converted to Parquet, in an analytics-ready format.
+
+   - A SQL analytics endpoint
+
+   - A default semantic model
+
+## Warehouses
 
