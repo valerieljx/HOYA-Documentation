@@ -48,3 +48,33 @@ color: #f8fafc !important;
 [data-md-color-scheme="hso-dark"] .md-nav__link--active {
   color: #ffffff !important; 
 }
+
+[data-md-color-scheme="hso-dark"] .md-top {
+  color: white !important;
+  background-color: transparent !important; /* or keep it dark if needed */
+  border-color: white !important; /* optional if there's a border */
+}
+
+[data-md-color-scheme="hso-dark"] .md-top svg {
+  fill: white !important;
+}
+
+/* Active section in ToC (highlighted in blue) */
+[data-md-color-scheme="hso-dark"] .md-nav__link.md-nav__link--active,
+[data-md-color-scheme="hso-dark"] .md-nav__link[aria-current="page"],
+[data-md-color-scheme="hso-dark"] .md-nav__link[aria-current="true"] {
+  color: #3b82f6 !important;
+  font-weight: 600 !important;
+}
+
+/* Previously visited (scrolled past) links in ToC */
+[data-md-color-scheme="hso-dark"] .md-nav__link:visited {
+  color: #94a3b8 !important; /* Tailwind slate-400 */
+}
+
+[data-md-color-scheme="hso-dark"] .md-top {
+  background-color: #1e293b !important; /* Matches --md-default-bg-color */
+  color: #f1f5f9 !important; /* Keep text/icon readable, or set to #1e293b if you want it invisible */
+  box-shadow: none !important;
+  border: none !important;
+}
