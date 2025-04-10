@@ -48,11 +48,11 @@ Ensure that you have git installed and configured. Refer to [Git](https://git-sc
 
 3. Before you start working on the code, ensure you do the following each time before you start:
 
-- Open Terminal.
+    1. Open Terminal.
 
-- Check that you are on the right branch using `git branch`. Else, change to your own branch using `git checkout BRANCH_NAME`.
+    2. Check that you are on the right branch using `git branch`. Else, change to your own branch using `git checkout BRANCH_NAME`.
 
-- Pull all changes from main to your own branch using `git pull origin main`.
+    3. Pull all changes from main to your own branch using `git pull origin main`.
 
 ## Installing Required Libraries
 

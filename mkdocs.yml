@@ -4,11 +4,6 @@ site_description: Documentation for Finance Fabric and Automation
 site_author: Nodoka Kushioka
 site_url: https://nodokak1.github.io/Documentation
 
-# Repository
-repo_name: nodokak1/Documentation
-repo_url: https://github.com/nodokak1/Documentation
-edit_uri: edit/main/
-
 # Copyright
 copyright: Copyright &copy; 2025 HOYA Surgical Optics
 
@@ -88,13 +83,17 @@ plugins:
 nav:
   - Introduction: introduction.md
   - Fabric Terminology: 
-      - Overview: terminology.md
       - Get Data: terminology/get_data.md
       - Store Data: terminology/store_data.md
+      - Prepare Data: terminology/prepare_data.md
   - Using Fabric Tools:
-      - Overview: fabric_tools.md
       - Lakehouse: fabric_tools/lakehouse.md
+      - SQL Analytics Endpoint: fabric_tools/sql_endpoint.md
       - Notebook: fabric_tools/notebook.md
+      - Semantic Model: fabric_tools/semantic_model.md
+      - Warehouse: fabric_tools/warehouse.md
+      - Dataflow: fabric_tools/dataflow.md
+      - Pipelines: fabric_tools/pipelines.md
   - Automation: automation.md
   - References: references.md
 
