@@ -18,3 +18,11 @@ Microsoft. (2025, April 6). Microsoft Fabric. What is data warehousing in Micros
 Microsoft. (2025, April 8). Microsoft Fabric. Default Power BI semantic models in Microsoft Fabric. Retrieved 9 April, 2025, from [https://learn.microsoft.com/en-us/fabric/data-warehouse/semantic-models](https://learn.microsoft.com/en-us/fabric/data-warehouse/semantic-models)
 
 Microsoft. (2024, June 12). Microsoft Fabric. What is the SQL analytics endpoint for a lakehouse? Retrieved 9 April, 2025, from [https://learn.microsoft.com/en-us/fabric/data-engineering/lakehouse-sql-analytics-endpoint](https://learn.microsoft.com/en-us/fabric/data-engineering/lakehouse-sql-analytics-endpoint).
+
+Microsoft. (2025, April 8). Microsoft Fabric. How to use Microsoft Fabric notebooks. Retrieved 10 April, 2025, from [https://learn.microsoft.com/en-us/fabric/data-engineering/how-to-use-notebook](https://learn.microsoft.com/en-us/fabric/data-engineering/how-to-use-notebook).
+
+Marr, B. (2024, January 1). Big Data Terminology: 16 Key Definitions Everyone Should Understand. Bernard Marr & Co. [https://bernardmarr.com/big-data-terminology-16-key-definitions-everyone-should-understand/](https://bernardmarr.com/big-data-terminology-16-key-definitions-everyone-should-understand/)
+
+Davies, E. (2021, March 15). Top 25 big data glossary terms you should know. TechTarget. [https://www.techtarget.com/whatis/feature/Top-25-big-data-glossary-terms-you-should-know](https://www.techtarget.com/whatis/feature/Top-25-big-data-glossary-terms-you-should-know)
+
+Clark, D. (2021, March 4). SQL vs T-SQL: Understanding the Differences. Dataquest. [https://www.dataquest.io/blog/sql-vs-t-sql/](https://www.dataquest.io/blog/sql-vs-t-sql/).

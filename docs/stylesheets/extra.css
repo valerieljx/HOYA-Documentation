@@ -1,3 +1,7 @@
+:root {
+  scroll-padding-top: 60px; /* adjust based on your header height */
+}
+
 [data-md-color-scheme="hso"] {
     --md-primary-fg-color:        #0057B8;
     --md-primary-fg-color--light: #0057B8;
