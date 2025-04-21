@@ -122,7 +122,7 @@ More information available at [Requests Website](https://pypi.org/project/reques
 
 For more information, refer to [PySpark Website](https://spark.apache.org/docs/latest/api/python/index.html).
 
-## SQL
+## Structured Query Language (SQL)
 
 - A domain-specific language used to manage data, especially in a relational database management system.
 
@@ -138,3 +138,14 @@ Refer to [PostgreSQL Website](https://www.postgresql.org/docs/current/sql.html) 
 
 For more information, refer to [Microsoft: Transact-SQL reference (Database engine)](https://learn.microsoft.com/en-us/sql/t-sql/language-reference?view=sql-server-ver16).
 
+## R
+
+- An open source programming language and environment for developing statistical computing and graphics.
+
+- The language of choice for statistical analysis, which is a very important feature in Data Science.
+
+- R’s popularity comes from the fact that most statistical methods developed in research environments lead to the production of ready-to-use freely available R packages.
+
+<div style="display: flex; justify-content: flex-end; gap: 0.5rem;" markdown="1">
+[Big Data :material-arrow-right:](./big_data.md){ .md-button }
+</div>

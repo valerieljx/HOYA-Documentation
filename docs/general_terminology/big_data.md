@@ -2,6 +2,16 @@
 
 To understand some concepts behind Big Data, there are some terminologies that should be properly defined. Below are some of the most common terms that should come in handy.
 
+## Big Data
+
+- A large collection of data characterized by the three V’s: volume, velocity, and variety.
+
+    - Volume refers to the amount of data—big data deals with high volumes of data
+
+    - Velocity refers to the rate at which data is collected—big data is collected at a high velocity and often streams directly into memory
+
+    - Variety refers to the range of data formats—big data tends to have a high variety of structured, semi-structured, and unstructured data, as well as a variety of formats such as numbers, text strings, images, and audio.
+
 ## As-a-service Infrastructure
 
 - Some examples: Data-as-a-service, software-as-a-service, platform-as-a-service
@@ -77,6 +87,6 @@ For more information, refer to [Spark vs. Hadoop](https://www.openlogic.com/blog
 
 [:material-arrow-left: Programming Languages](./languages.md){ .md-button }
 
-[Data Analytics :material-arrow-right:](./data_analytics.md){ .md-button }
+[Data Engineering :material-arrow-right:](./data_engineering.md){ .md-button }
 
 </div>
