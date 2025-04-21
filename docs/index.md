@@ -10,7 +10,10 @@ search:
     - General Terminology
         - [Programming Languages](./general_terminology/languages.md)
         - [Big Data](./general_terminology/big_data.md)
+        - [Data Engineering](./general_terminology/data_engineering.md)
         - [Data Analytics](./general_terminology/data_analytics.md)
+        - [Data Visualization](./general_terminology/data_viz.md)
+        - [Data Science](./general_terminology/data_science.md)
     - Fabric Terminology
         - [Get Data](./terminology/get_data.md)
         - [Store Data](./terminology/store_data.md)
@@ -23,7 +26,7 @@ search:
     - [Warehouse](./fabric_tools/warehouse.md)
 
 4. Architecture
-    - [Naming Conventions]()
+    - [Naming Conventions](./architecture/naming_convention.md)
 
 5. [Automation]()
 
