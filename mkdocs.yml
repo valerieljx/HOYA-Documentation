@@ -70,6 +70,7 @@ markdown_extensions:
 # Plugins
 plugins:
   - search
+  - redirects
   - awesome-pages
   - glightbox
   - git-revision-date-localized:
@@ -82,10 +83,16 @@ plugins:
 # Navigation structure
 nav:
   - Introduction: introduction.md
-  - Fabric Terminology: 
-      - Get Data: terminology/get_data.md
-      - Store Data: terminology/store_data.md
-      - Prepare Data: terminology/prepare_data.md
+  - Terminology:
+      - General Terminology:
+          - Programming Languages: general_terminology/languages.md
+          - Big Data: general_terminology/big_data.md
+          - Data Analytics: general_terminology/data_analytics.md
+          - Data Engineering: general_terminology/data_engineering.md
+      - Fabric Terminology:
+          - Get Data: terminology/get_data.md
+          - Store Data: terminology/store_data.md
+          - Prepare Data: terminology/prepare_data.md
   - Using Fabric Tools:
       - Lakehouse: fabric_tools/lakehouse.md
       - SQL Analytics Endpoint: fabric_tools/sql_endpoint.md

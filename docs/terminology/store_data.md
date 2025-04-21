@@ -70,6 +70,10 @@ For more information, refer to [Using Fabric Tools: Warehouse](../fabric_tools/w
 | **Cost Efficiency**      | Efficient for storage-heavy, compute-light | Efficient for performance                     | Efficient for lightweight operations          |
 | **Use Cases**            | Data science, ML, raw ingestion, archiving| Business intelligence, reporting, dashboards  | Lightweight apps, transactional needs         |
 
+- Choose a **data warehouse** when you need an enterprise-scale solution with open standard format, no knobs performance, and minimal setup. Best suited for semi-structured and structured data formats, the data warehouse is suitable for both beginner and experienced data professionals, offering simple and intuitive experiences.
+
+- Choose a **lakehouse** when you need a large repository of highly unstructured data from heterogeneous sources, leveraging low-cost object storage and want to use SPARK as your primary development tool. Acting as a 'lightweight' data warehouse, you always have the option to use the SQL endpoint and T-SQL tools to deliver reporting and data intelligence scenarios in your lakehouse.
+
 ## Semantic Model
 
 - A semantic model represents a source of data ready for reporting, visualization, discovery, and consumption.
