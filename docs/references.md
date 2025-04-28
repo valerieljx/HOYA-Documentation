@@ -51,4 +51,10 @@ Withum. (2025, 6 January). Choosing the Right Data Ingestion Tools in Microsoft 
 
 Microsoft. (2025, 16 April). What is Apache Airflow Job? Microsoft. Retrieved 28 April, 2025, from [https://learn.microsoft.com/en-us/fabric/data-factory/apache-airflow-jobs-concepts](https://learn.microsoft.com/en-us/fabric/data-factory/apache-airflow-jobs-concepts).
 
-Microsoft. (2023, 12 February). What is an Apache Spark job definition?. Retrieved 28 April, 2025, from [https://learn.microsoft.com/en-us/fabric/data-engineering/spark-job-definition](https://learn.microsoft.com/en-us/fabric/data-engineering/spark-job-definition).
+Microsoft. (2023, 12 February). What is an Apache Spark job definition? Microsoft. Retrieved 28 April, 2025, from [https://learn.microsoft.com/en-us/fabric/data-engineering/spark-job-definition](https://learn.microsoft.com/en-us/fabric/data-engineering/spark-job-definition).
+
+Microsoft. (2025, 8 April). How to use Microsoft Fabric notebooks. Microsoft. Retrieved 28 April, 2025, from [https://learn.microsoft.com/en-us/fabric/data-engineering/how-to-use-notebook](https://learn.microsoft.com/en-us/fabric/data-engineering/how-to-use-notebook).
+
+Microsoft. (2024, 25 April). Use a notebook to load data into your lakehouse. Microsoft. Retrieved 28 April, 2025, from [https://learn.microsoft.com/en-us/fabric/data-engineering/lakehouse-notebook-load-data?source=recommendations](https://learn.microsoft.com/en-us/fabric/data-engineering/lakehouse-notebook-load-data?source=recommendations).
+
+Microsoft. (2025, 31 March). Develop, execute, and manage Microsoft Fabric notebooks. Microsoft. Retrieved 28 April, 2025, from [https://learn.microsoft.com/en-us/fabric/data-engineering/author-execute-notebook](https://learn.microsoft.com/en-us/fabric/data-engineering/author-execute-notebook).

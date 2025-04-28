@@ -105,6 +105,7 @@ nav:
     - Dataflow: fabric_tools/dataflow.md
     - Pipelines: fabric_tools/pipelines.md
     - Environment: fabric_tools/environment.md
+    - ML Model: fabric_tools/ml_model.md
   - Architecture:
     - Naming Convention: architecture/naming_convention.md
   - Automation: automation.md
