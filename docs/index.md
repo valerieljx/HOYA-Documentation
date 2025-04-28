@@ -28,6 +28,7 @@ search:
     - [Dataflow](fabric_tools/dataflow.md)
     - [Pipelines](fabric_tools/pipelines.md)
     - [Environment](fabric_tools/environment.md)
+    - [ML Model](fabric_tools/ml_model.md)
 
 4. Architecture
     - [Naming Conventions](./architecture/naming_convention.md)
