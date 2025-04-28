@@ -95,6 +95,7 @@ nav:
         - Get Data: terminology/get_data.md
         - Store Data: terminology/store_data.md
         - Prepare Data: terminology/prepare_data.md
+        - Analyze and Train Data: terminology/analyze_train_data.md
   - Using Fabric Tools:
     - Lakehouse: fabric_tools/lakehouse.md
     - SQL Analytics Endpoint: fabric_tools/sql_endpoint.md
@@ -103,6 +104,7 @@ nav:
     - Warehouse: fabric_tools/warehouse.md
     - Dataflow: fabric_tools/dataflow.md
     - Pipelines: fabric_tools/pipelines.md
+    - Environment: fabric_tools/environment.md
   - Architecture:
     - Naming Convention: architecture/naming_convention.md
   - Automation: automation.md

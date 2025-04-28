@@ -15,6 +15,10 @@ From the current workspace, click on **New Item** and then **Notebook**, which i
 <figcaption>Importing a Notebook (Microsoft, 2025)</figcaption>
 </figure>
 
+## Connecting Lakehouses and Notebooks
+
+- 
+
 ## Saving a Notebook
 
 - A notebook in Fabric will by default save automatically after you open and edit it. 
