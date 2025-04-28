@@ -71,8 +71,11 @@
 #### Similarities
 
 - Both involve Extracting, Transforming, and Loading data.
+
 - Both aim to make data available for analytics and reporting.
+
 - Both can be scheduled or orchestrated using data pipelines.
+
 - Both support data integration across multiple sources.
 
 #### Use Cases
@@ -122,7 +125,9 @@
 
 - A series of processes hat move data from one system to another, typically involving multiple stages such as extraction, transformation, and loading.
 
-- It ensures a smooth flow of data from source to destiination.
+    - These pipelines can be designed to operate in real-time (stream processing) or in scheduled intervals (batch processing).
+
+- It ensures a smooth flow of data from source to destination.
 
 ## Data Warehouse
 
@@ -181,3 +186,78 @@
 ## Data Orchestration
 
 - Involves coordinating and managing the flow of data across various systems, services, and processes. It ensures that data workflows are executed in a controlled and organized manner.
+
+## Data Mesh
+
+- Data Mesh is a decentralized approach to data architecture that emphasizes domain-oriented dencentralized data ownership and infrastructure as code. 
+
+- It aims to address scalability and agility in data systems.
+
+## Data Ingestion
+
+- Data ingestion is the process of collecting and importing data into a data system or storage layer.
+
+- It involves azquiring data from various sources, such as databases, logs, or external APIs, for further processing.
+
+## Data Bias
+
+- Data bias occurs when datasets used for analysis or machine learning models contain systematic errors or favor specific groups, leading to biased results.
+
+- Data engineers and data scientists must be aware of and address bias in data.
+
+## Data Redundancy
+
+- Data redundancy occurs when the same piece of data is unnecessarily duplicated and stored in multiple places within a database.
+
+- While redundancy can be intentional for performance or data retrieval purposes, excessive redundancy can lead to inefficiencies and data integrity issues.
+
+## Normalization
+
+- Normalization is a database design technique that aims to minimize data redundancy and dependency by organizing data into separate tables.
+
+- It involves breaking down a large table into smaller, related tables and establishing relationships between them.
+
+## Data Workflow
+
+- A data workflow refers to the series of steps, processes, and tasks involved in the end-to-end management and movement of data within an organization.
+
+- This includes the collection, processing, storage, analysis, and distribution of data throughout its lifecycle.
+
+## Online Transaction Processing (OLTP)
+
+- OLTP systems manage transaction-oriented applications, typically involving large numbers of short online transactions such as insert, updatem and delete operations.
+
+- These systems are optimized for fast query processing and maintaining data integrity in environments where multiple users perform transactions simultaneously.
+
+- OLTP is commonly used in applications like banking, order processing, and retail, where real-time data access and reliability are critical.
+
+## Online Analytical Processing (OLAP)
+
+- Software technology you can use to analyze business data from different points of view.
+
+- OLAP combines and groups the data into categories to provide actionable insights for strategic planning.
+
+### OLTP vs. OLAP
+
+| Feature                     | OLTP (Online Transaction Processing)                                | OLAP (Online Analytical Processing)                                   |
+|----------------------------|----------------------------------------------------------------------|------------------------------------------------------------------------|
+| **Purpose**                | Handles day-to-day transactional data                               | Supports complex analysis and decision-making                         |
+| **Data Operations**        | Insert, Update, Delete, Short Queries                                | Read-heavy, Aggregate, Analytical Queries                             |
+| **Data Volume**            | Handles large number of short online transactions                    | Handles large volumes of historical data                              |
+| **Users**                  | Operational users (e.g., cashiers, clerks)                          | Business analysts, decision makers                                    |
+| **Data Structure**         | Highly normalized schema (e.g., 3NF)                                 | Denormalized schema (e.g., star, snowflake)                           |
+| **Query Complexity**       | Simple queries with fast response times                             | Complex queries involving joins, aggregations, and summarizations     |
+| **Response Time**          | Milliseconds to seconds                                              | Seconds to minutes                                                    |
+| **Data Freshness**         | Real-time or near real-time                                          | Periodically updated (e.g., hourly, daily)                            |
+| **Examples**               | Banking transactions, order entry, retail sales                      | Sales trend analysis, forecasting, market segmentation                |
+| **Database Design Goal**   | Speed and efficiency of transactions                                | Flexibility and speed of analytical queries                           |
+| **System Type**            | Row-based databases                                                  | Columnar or hybrid storage databases                                  |
+| **Backup and Recovery**    | Essential for data consistency and reliability                      | May be less frequent, often relies on data snapshots                  |
+
+<div style="display: flex; justify-content: space-between;" markdown="1">
+
+[:material-arrow-left: Big Data](./big_data.md){ .md-button }
+
+[Data Analytics :material-arrow-right:](./data_analytics.md){ .md-button }
+
+</div>

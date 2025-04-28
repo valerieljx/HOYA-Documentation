@@ -43,3 +43,12 @@ Nnamdi Samuel. (2024, January 17). The Data Engineer's Vocabulary. Medium. [http
 
 Kevin Bartley. (2024, October 30). What is the Difference Between ETL and ELT? Rivery. [https://rivery.io/blog/etl-vs-elt/#:~:text=ETL%20and%20ELT%20are%20two,both%20structured%20and%20unstructured%20data.](https://rivery.io/blog/etl-vs-elt/#:~:text=ETL%20and%20ELT%20are%20two,both%20structured%20and%20unstructured%20data.)
 
+Krishna Yogi Kolluru. (2024, August 28). 100 Data Engineering Jargon That You Must Know. LinkedIn. Retrieved 22 April, 2025, from [https://www.linkedin.com/pulse/100-data-engineering-jargon-you-must-know-krishna-yogi-kolluru-5ovee/](https://www.linkedin.com/pulse/100-data-engineering-jargon-you-must-know-krishna-yogi-kolluru-5ovee/)
+
+Chris Wagner, Marcus Radue. (2023, September 19). Microsoft Fabric: Data pipelines. Bakertilly. Retrieved 18 April, 2025, from [https://www.bakertilly.com/insights/microsoft-fabric-data-pipelines](https://www.bakertilly.com/insights/microsoft-fabric-data-pipelines).
+
+Withum. (2025, 6 January). Choosing the Right Data Ingestion Tools in Microsoft Fabric: Data Pipeline, Dataflow, Notebook and Eventstream. Withum. Retrieved 28 April, 2025, from [https://www.withum.com/resources/choosing-the-right-data-ingestion-tools-in-microsoft-fabric-data-pipeline-dataflow-notebook-and-eventstream/](https://www.withum.com/resources/choosing-the-right-data-ingestion-tools-in-microsoft-fabric-data-pipeline-dataflow-notebook-and-eventstream/).
+
+Microsoft. (2025, 16 April). What is Apache Airflow Job? Microsoft. Retrieved 28 April, 2025, from [https://learn.microsoft.com/en-us/fabric/data-factory/apache-airflow-jobs-concepts](https://learn.microsoft.com/en-us/fabric/data-factory/apache-airflow-jobs-concepts).
+
+Microsoft. (2023, 12 February). What is an Apache Spark job definition?. Retrieved 28 April, 2025, from [https://learn.microsoft.com/en-us/fabric/data-engineering/spark-job-definition](https://learn.microsoft.com/en-us/fabric/data-engineering/spark-job-definition).

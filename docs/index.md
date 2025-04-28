@@ -18,12 +18,16 @@ search:
         - [Get Data](./terminology/get_data.md)
         - [Store Data](./terminology/store_data.md)
         - [Prepare Data](./terminology/prepare_data.md)
+        - [Analyze and Train Data](./terminology/analyze_train_data.md)
 
 3. Using Fabric Tools
     - [Lakehouse](./fabric_tools/lakehouse.md)
     - [Notebook](./fabric_tools/notebook.md)
     - [Semantic Model](./fabric_tools/semantic_model.md)
     - [Warehouse](./fabric_tools/warehouse.md)
+    - [Dataflow](fabric_tools/dataflow.md)
+    - [Pipelines](fabric_tools/pipelines.md)
+    - [Environment](fabric_tools/environment.md)
 
 4. Architecture
     - [Naming Conventions](./architecture/naming_convention.md)
