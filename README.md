@@ -46,21 +46,39 @@ Ensure that you have git installed and configured. Refer to [Git](https://git-sc
 
     - To check current branch, use `git branch`
 
-3. Before you start working on the code, ensure you do the following each time before you start:
-
-    1. Open Terminal.
-
-    2. Check that you are on the right branch using `git branch`. Else, change to your own branch using `git checkout BRANCH_NAME`.
-
-    3. Pull all changes from main to your own branch using `git pull origin main`.
-
 ## Installing Required Libraries
 
 First, navigate to the root directory of the repository using `cd YOUR\PATH\TO\DOWNLOADS\Documentation`.
 
 If you do not have mkdocs installed, open a terminal and install Material for MkDocs with `python pip install mkdocs-material`.
 
-To install all required libraries, run `python -m pip install -r docs/requirements.txt`
+To install all required libraries, run `python -m pip install -r docs/requirements.txt`.
+
+## Contributing to Documentation
+
+- Before you start working on the code, ensure you do the following each time before you start:
+
+    - Open Terminal.
+
+    - Check that you are on the right branch using `git branch`. Else, change to your own branch using `git checkout BRANCH_NAME`.
+
+    - Pull all changes from main to your own branch using `git pull origin main`.
+
+- All pages are written in Markdown format. For Markdown syntax, refer to this [Markdown Guide](https://www.markdownguide.org/basic-syntax/).
+
+- To create a new main section, create a new folder under the `docs` folder.
+
+    - All pages in this section will then be stored in the folder.
+
+    - Naming convention: `snake_case`
+
+- To add images, save the images to `images` folder and reference it in your page.
+
+- When you add a new page, please make sure to update the `nav` section of `mkdocs.yml` and `index.md` in docs.
+
+    - This ensures that the table of contents and website reflects the new page added.
+
+### Structure of File
 
 ## Committing Code
 

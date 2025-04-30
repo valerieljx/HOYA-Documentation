@@ -46,7 +46,7 @@ From the current workspace, click on **New Item** and then **Notebook**, which i
 
 ## Connecting Lakehouses and Notebooks
 
-- You can navigate to different lakehouse in the Lakehouse explorer and set one lakehouse as the default by pinning it.
+- You can navigate to different lakehouse in the [Lakehouse explorer](./lakehouse.md) and set one lakehouse as the default by pinning it.
 
     - Your default is then mounted to the runtime working directly, and you can read or write to the default lakehouse using a local house/
 
@@ -158,6 +158,8 @@ From the current workspace, click on **New Item** and then **Notebook**, which i
     - A Python file (.py).
 
     - A Latex file (.tex).
+
+For more information, refer to official documentation: [develop and run notebooks](https://learn.microsoft.com/en-us/fabric/data-engineering/author-execute-notebook) and [use Python experience on notebook](https://learn.microsoft.com/en-us/fabric/data-engineering/using-python-experience-on-notebook?source=recommendations)
 
 <div style="display: flex; justify-content: space-between;" markdown="1">
 
