@@ -107,6 +107,9 @@ nav:
     - Environment: fabric_tools/environment.md
     - ML Model: fabric_tools/ml_model.md
   - Architecture:
+    - Star Schema Design: architecture/star_schema.md
+    - Dimension Design: architecture/dimension_design.md
+    - Fact Design: architecture/fact_design.md
     - Naming Convention: architecture/naming_convention.md
   - Automation: automation.md
   - References: references.md

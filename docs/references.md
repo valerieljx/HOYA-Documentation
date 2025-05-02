@@ -58,3 +58,13 @@ Microsoft. (2025, 8 April). How to use Microsoft Fabric notebooks. Microsoft. Re
 Microsoft. (2024, 25 April). Use a notebook to load data into your lakehouse. Microsoft. Retrieved 28 April, 2025, from [https://learn.microsoft.com/en-us/fabric/data-engineering/lakehouse-notebook-load-data?source=recommendations](https://learn.microsoft.com/en-us/fabric/data-engineering/lakehouse-notebook-load-data?source=recommendations).
 
 Microsoft. (2025, 31 March). Develop, execute, and manage Microsoft Fabric notebooks. Microsoft. Retrieved 28 April, 2025, from [https://learn.microsoft.com/en-us/fabric/data-engineering/author-execute-notebook](https://learn.microsoft.com/en-us/fabric/data-engineering/author-execute-notebook).
+
+Microsoft. (2025, 6 April). Dimensional modeling in Fabric Data Warehouse. Microsoft. Retrieved 30 April, 2025, from [https://learn.microsoft.com/en-us/fabric/data-warehouse/dimensional-modeling-overview](https://learn.microsoft.com/en-us/fabric/data-warehouse/dimensional-modeling-overview).
+
+IBM. (2025, 20 March). What is a primary key? IBM. Retrieved 30 April, 2025, from [https://www.ibm.com/think/topics/primary-key](https://www.ibm.com/think/topics/primary-key).
+
+Microsoft. (2025, 6 April). Dimensional modeling in Microsoft Fabric Warehouse: Dimension tables. Microsoft. Retrieved 30 April, 2025, from [https://learn.microsoft.com/en-us/fabric/data-warehouse/dimensional-modeling-dimension-tables](https://learn.microsoft.com/en-us/fabric/data-warehouse/dimensional-modeling-dimension-tables).
+
+Microsoft. (2024. 25 September). Primary keys, foreign keys, and unique keys in Warehouse in Microsoft Fabric. Microsoft. Retrieved 30 April, 2025, from [https://learn.microsoft.com/en-us/fabric/data-warehouse/table-constraints](https://learn.microsoft.com/en-us/fabric/data-warehouse/table-constraints).
+
+Microsoft. (2025, 6 April). Dimensional modeling in Microsoft Fabric Warehouse: Fact tables. Microsoft. Retrieved 30 April, 2025, from [https://learn.microsoft.com/en-us/fabric/data-warehouse/dimensional-modeling-fact-tables](https://learn.microsoft.com/en-us/fabric/data-warehouse/dimensional-modeling-fact-tables).

@@ -164,9 +164,9 @@ In our current workspaces, these methods are most commonly used:
 ### Creating a Shortcut
 
 <figure markdown="span">
-    ![Create lakehouse Shortcut (Microsoft, 2025)](../images/create-lakehouse-shortcut.png)
-    <figcaption>Create lakehouse Shortcut (Microsoft, 2025)</figcaption>
-    </figure>
+![Create lakehouse Shortcut (Microsoft, 2025)](../images/create-lakehouse-shortcut.png)
+<figcaption>Create lakehouse Shortcut (Microsoft, 2025)</figcaption>
+</figure>
 
 1. Open Lakehouse Explorer in the lakehouse that you want to copy.
 

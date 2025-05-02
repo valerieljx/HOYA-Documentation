@@ -31,7 +31,10 @@ search:
     - [ML Model](fabric_tools/ml_model.md)
 
 4. Architecture
+    - [Star Schema Design](./architecture/star_schema.md)
     - [Naming Conventions](./architecture/naming_convention.md)
+    - [Dimension Design](./architecture/dimension_design.md)
+    - [Fact Design](./architecture/fact_design.md)
 
 5. [Automation]()
 
