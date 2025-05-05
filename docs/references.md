@@ -68,3 +68,19 @@ Microsoft. (2025, 6 April). Dimensional modeling in Microsoft Fabric Warehouse: 
 Microsoft. (2024. 25 September). Primary keys, foreign keys, and unique keys in Warehouse in Microsoft Fabric. Microsoft. Retrieved 30 April, 2025, from [https://learn.microsoft.com/en-us/fabric/data-warehouse/table-constraints](https://learn.microsoft.com/en-us/fabric/data-warehouse/table-constraints).
 
 Microsoft. (2025, 6 April). Dimensional modeling in Microsoft Fabric Warehouse: Fact tables. Microsoft. Retrieved 30 April, 2025, from [https://learn.microsoft.com/en-us/fabric/data-warehouse/dimensional-modeling-fact-tables](https://learn.microsoft.com/en-us/fabric/data-warehouse/dimensional-modeling-fact-tables).
+
+MIcrosoft. (2025, 7 April). Create a Warehouse in Microsoft Fabric. Microsoft. Retrieved 5 May, 2025, from [https://learn.microsoft.com/en-us/fabric/data-warehouse/create-warehouse](https://learn.microsoft.com/en-us/fabric/data-warehouse/create-warehouse).
+
+Kurt Buhler. (2024, 21 February). Create semantic model relationships. Tabular Editor. Retrieved 5 May, 2025, from [https://tabulareditor.com/blog/create-semantic-model-relationships](https://tabulareditor.com/blog/create-semantic-model-relationships).
+
+Nikola. (2021, 20 July). VertiPaq – “Brain & Muscles” behind Power BI. Data Mozart. Retrieved 5 May, 2025, from [https://data-mozart.com/vertipaq-brain-muscles-behind-power-bi/](https://data-mozart.com/vertipaq-brain-muscles-behind-power-bi/).
+
+Microsoft. Guide to table relationships. Retrieved 5 May, 2025, from [https://support.microsoft.com/en-us/office/guide-to-table-relationships-30446197-4fbe-457b-b992-2f6fb812b58f](https://support.microsoft.com/en-us/office/guide-to-table-relationships-30446197-4fbe-457b-b992-2f6fb812b58f).
+
+Microsoft. (2025) Create and explore a semantic model. mslearn-fabric. Retrieved 5 May, 2025, from [https://microsoftlearning.github.io/mslearn-fabric/Instructions/Labs/14-create-a-star-schema-model.html](https://microsoftlearning.github.io/mslearn-fabric/Instructions/Labs/14-create-a-star-schema-model.html).
+
+Microsoft. (2025, 6 April). Ingest data into the Warehouse. Microsoft. Retrieved 5 May, 2025, from [https://learn.microsoft.com/en-us/fabric/data-warehouse/ingest-data](https://learn.microsoft.com/en-us/fabric/data-warehouse/ingest-data).
+
+Microsoft. (2025, 10 April). Create reports in the Power BI service in Microsoft Fabric and Power BI Desktop. Microsoft. Retrieved 5 May, 2025, from [https://learn.microsoft.com/en-us/fabric/data-warehouse/reports-power-bi-service](https://learn.microsoft.com/en-us/fabric/data-warehouse/reports-power-bi-service).
+
+Databricks. Snowflake Schema. Databricks. Retrieved 5 May, 2025, from [https://www.databricks.com/glossary/snowflake-schema#:~:text=A%20snowflake%20schema%20is%20a,data%20marts%2C%20and%20relational%20databases.](https://www.databricks.com/glossary/snowflake-schema#:~:text=A%20snowflake%20schema%20is%20a,data%20marts%2C%20and%20relational%20databases.).

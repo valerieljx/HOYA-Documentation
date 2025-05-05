@@ -159,7 +159,7 @@ From the current workspace, click on **New Item** and then **Notebook**, which i
 
     - A Latex file (.tex).
 
-For more information, refer to official documentation: [develop and run notebooks](https://learn.microsoft.com/en-us/fabric/data-engineering/author-execute-notebook) and [use Python experience on notebook](https://learn.microsoft.com/en-us/fabric/data-engineering/using-python-experience-on-notebook?source=recommendations)
+For more information, refer to official documentation: [develop and run notebooks](https://learn.microsoft.com/en-us/fabric/data-engineering/author-execute-notebook) and [use Python experience on notebook](https://learn.microsoft.com/en-us/fabric/data-engineering/using-python-experience-on-notebook?source=recommendations).
 
 <div style="display: flex; justify-content: space-between;" markdown="1">
 
