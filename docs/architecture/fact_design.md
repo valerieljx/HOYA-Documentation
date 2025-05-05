@@ -84,6 +84,6 @@
 
 [:material-arrow-left: Dimension Design](./dimension_design.md){ .md-button }
 
-[Naming Convention :material-arrow-right:](./naming_convention.md){ .md-button }
+[Data Model Relationships :material-arrow-right:](./relationships.md){ .md-button }
 
 </div>

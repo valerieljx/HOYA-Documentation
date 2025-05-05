@@ -2,6 +2,8 @@
 
 ## Creating a Lakehouse
 
+*To decide between the different data storage options, refer to [Warehouse, SQL Database, or Lakehouse?](../terminology/store_data.md#warehouse-sql-database-or-lakehouse)*
+
 There are 2 ways to create a Lakehouse. However, the second method is more straightforward, and usually preferred.
 
 1. Data Engineering homepage

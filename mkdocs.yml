@@ -102,16 +102,23 @@ nav:
     - Notebook: fabric_tools/notebook.md
     - Semantic Model: fabric_tools/semantic_model.md
     - Warehouse: fabric_tools/warehouse.md
+    - SQL Database: fabric_tools/sql_database.md
     - Dataflow: fabric_tools/dataflow.md
     - Pipelines: fabric_tools/pipelines.md
     - Environment: fabric_tools/environment.md
     - ML Model: fabric_tools/ml_model.md
+    - Reports: fabric_tools/reports.md
+  - Power BI:
+    - VertiPaq Engine: power_bi/vertipaq.md
   - Architecture:
     - Star Schema Design: architecture/star_schema.md
     - Dimension Design: architecture/dimension_design.md
     - Fact Design: architecture/fact_design.md
+    - Snowflake Schema: architecture/snowflake.md
+    - Data Model Relationships: architecture/relationships.md
     - Naming Convention: architecture/naming_convention.md
   - Automation: automation.md
+  - Inforiver: inforiver.md
   - References: references.md
 
 # Additional settings
