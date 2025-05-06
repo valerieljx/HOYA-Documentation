@@ -84,3 +84,6 @@ Microsoft. (2025, 6 April). Ingest data into the Warehouse. Microsoft. Retrieved
 Microsoft. (2025, 10 April). Create reports in the Power BI service in Microsoft Fabric and Power BI Desktop. Microsoft. Retrieved 5 May, 2025, from [https://learn.microsoft.com/en-us/fabric/data-warehouse/reports-power-bi-service](https://learn.microsoft.com/en-us/fabric/data-warehouse/reports-power-bi-service).
 
 Databricks. Snowflake Schema. Databricks. Retrieved 5 May, 2025, from [https://www.databricks.com/glossary/snowflake-schema#:~:text=A%20snowflake%20schema%20is%20a,data%20marts%2C%20and%20relational%20databases.](https://www.databricks.com/glossary/snowflake-schema#:~:text=A%20snowflake%20schema%20is%20a,data%20marts%2C%20and%20relational%20databases.).
+
+Geeks for Geeks. (2025, 12 February). Snowflake Schema in Data Warehouse Model. Geeks for Geeks. Retrieved 6 May, 2025, from [https://www.geeksforgeeks.org/snowflake-schema-in-data-warehouse-model/](https://www.geeksforgeeks.org/snowflake-schema-in-data-warehouse-model/).
+

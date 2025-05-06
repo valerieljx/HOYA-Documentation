@@ -84,6 +84,6 @@
 
 [:material-arrow-left: Dimension Design](./dimension_design.md){ .md-button }
 
-[Data Model Relationships :material-arrow-right:](./relationships.md){ .md-button }
+[Snowflake Schema :material-arrow-right:](./snowflake.md){ .md-button }
 
 </div>
