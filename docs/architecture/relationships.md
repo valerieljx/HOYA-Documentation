@@ -119,7 +119,7 @@
 
 <div style="display: flex; justify-content: space-between;" markdown="1">
 
-[:material-arrow-left: Fact Design](./fact_design.md){ .md-button }
+[:material-arrow-left: Snowflake Schema](./snowflake.md){ .md-button }
 
 [Naming Convention :material-arrow-right:](./naming_convention.md){ .md-button }
 
