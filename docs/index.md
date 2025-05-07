@@ -29,7 +29,6 @@ search:
     - [SQL Database](./fabric_tools/sql_database.md)
     - [Dataflow](fabric_tools/dataflow.md)
     - [Pipelines](fabric_tools/pipelines.md)
-    - [Environment](fabric_tools/environment.md)
     - [ML Model](fabric_tools/ml_model.md)
     - [Reports](fabric_tools/reports.md)
 
