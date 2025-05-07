@@ -87,3 +87,12 @@ Databricks. Snowflake Schema. Databricks. Retrieved 5 May, 2025, from [https://w
 
 Geeks for Geeks. (2025, 12 February). Snowflake Schema in Data Warehouse Model. Geeks for Geeks. Retrieved 6 May, 2025, from [https://www.geeksforgeeks.org/snowflake-schema-in-data-warehouse-model/](https://www.geeksforgeeks.org/snowflake-schema-in-data-warehouse-model/).
 
+Microsoft. (2024, 25 July). OneLake, the OneDrive for data. Microsoft. Retrieved 7 May, 2025, from [https://learn.microsoft.com/en-us/fabric/onelake/onelake-overview](https://learn.microsoft.com/en-us/fabric/onelake/onelake-overview).
+
+Ed Freeman (2023, 23 May). What is OneLake?. endjin. Retrieved 7 May, 2025, from [https://endjin.com/blog/2023/05/what-is-onelake](https://endjin.com/blog/2023/05/what-is-onelake).
+
+Microsoft. (2025, 18 January). Create a SQL database in the Fabric portal. Microsoft. Retrieved 7 May, 2025, from [https://learn.microsoft.com/en-us/fabric/database/sql/create](https://learn.microsoft.com/en-us/fabric/database/sql/create).
+
+Microsoft. (2024, 19 November). Create a table in SQL database in Fabric. Microsoft. Retrieved 7 May, 2025, from [https://learn.microsoft.com/en-us/fabric/database/sql/create-table](https://learn.microsoft.com/en-us/fabric/database/sql/create-table).
+
+Microsoft. (2024, 19 November). Query your SQL database in Fabric. Microsoft. Retrieved 7 May, 2025, from [https://learn.microsoft.com/en-us/fabric/database/sql/query](https://learn.microsoft.com/en-us/fabric/database/sql/query).

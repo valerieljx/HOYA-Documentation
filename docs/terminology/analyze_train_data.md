@@ -35,4 +35,6 @@ Refer to [Using Fabric Tools: ML Model](../fabric_tools/ml_model.md).
 
 [:material-arrow-left: Prepare Data](./prepare_data.md){ .md-button }
 
+[OneLake :material-arrow-right:](./onelake.md){ .md-button }
+
 </div>

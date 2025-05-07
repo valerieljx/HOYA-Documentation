@@ -104,6 +104,10 @@ Refer to [Using Fabric Tools: Notebook](../fabric_tools/notebook.md) for more in
 | **Transformation complexity**| Low: lightweight - type conversion, column mapping, merge/split files, flatten hierarchy | Low to high: 300+ transformation functions | Low to high: support for native Spark and open-source libraries | Low to high: custom transformations using Python, SQL, Spark |
 
 
-<div style="display: flex; justify-content: flex-end; gap: 0.5rem;" markdown="1">
+<div style="display: flex; justify-content: space-between;" markdown="1">
+
+[:material-arrow-left: General Terminology: Data Science](../general_terminology/data_science.md){ .md-button }
+
 [Store Data :material-arrow-right:](./store_data.md){ .md-button }
+
 </div>
