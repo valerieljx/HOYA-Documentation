@@ -19,8 +19,6 @@ In this section, we will be defining the Environment and ML Model items, since N
 
 - Supports collaboration and governance, making it easier to organize projects and apply consistent policies.
 
-For more information, refer to [Using Fabric Tools: Environment](../fabric_tools/environment.md).
-
 ## ML Model
 
 - Machine Learning (ML) models are trained algorithms that learn patterns from data to make predictions or classifications.

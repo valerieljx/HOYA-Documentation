@@ -96,3 +96,5 @@ Microsoft. (2025, 18 January). Create a SQL database in the Fabric portal. Micro
 Microsoft. (2024, 19 November). Create a table in SQL database in Fabric. Microsoft. Retrieved 7 May, 2025, from [https://learn.microsoft.com/en-us/fabric/database/sql/create-table](https://learn.microsoft.com/en-us/fabric/database/sql/create-table).
 
 Microsoft. (2024, 19 November). Query your SQL database in Fabric. Microsoft. Retrieved 7 May, 2025, from [https://learn.microsoft.com/en-us/fabric/database/sql/query](https://learn.microsoft.com/en-us/fabric/database/sql/query).
+
+Microsoft (2025, 2 April). Sharepoint folder. Microsoft. Retrieved 7 May, 2025, from [https://learn.microsoft.com/en-us/power-query/connectors/sharepoint-folder](https://learn.microsoft.com/en-us/power-query/connectors/sharepoint-folder).
