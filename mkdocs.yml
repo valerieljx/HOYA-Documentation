@@ -96,6 +96,7 @@ nav:
         - Store Data: terminology/store_data.md
         - Prepare Data: terminology/prepare_data.md
         - Analyze and Train Data: terminology/analyze_train_data.md
+        - OneLake: terminology/onelake.md
   - Using Fabric Tools:
     - Lakehouse: fabric_tools/lakehouse.md
     - SQL Analytics Endpoint: fabric_tools/sql_endpoint.md

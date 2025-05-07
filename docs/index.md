@@ -19,6 +19,7 @@ search:
         - [Store Data](./terminology/store_data.md)
         - [Prepare Data](./terminology/prepare_data.md)
         - [Analyze and Train Data](./terminology/analyze_train_data.md)
+        - [OneLake](./terminology/onelake.md)
 
 3. Using Fabric Tools
     - [Lakehouse](./fabric_tools/lakehouse.md)

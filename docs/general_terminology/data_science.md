@@ -84,4 +84,6 @@ For more information and code for each data science and analytics tool, refer to
 
 [:material-arrow-left: Data Visualization](./data_viz.md){ .md-button }
 
+[Fabric Terminology: Get Data :material-arrow-right:](../terminology/get_data.md){ .md-button }
+
 </div>
