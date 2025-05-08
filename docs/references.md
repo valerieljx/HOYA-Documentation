@@ -112,3 +112,5 @@ Microsoft. (2025, 23 April). Use the Dataflow activity to run a Dataflow Gen2. M
 Microsoft. (2025, 4 February). Use the Invoke pipeline activity to run another pipeline. Microsoft. Retrieved 8 May, 2025, from [https://learn.microsoft.com/en-us/fabric/data-factory/invoke-pipeline-activity](https://learn.microsoft.com/en-us/fabric/data-factory/invoke-pipeline-activity).
 
 Microsoft. (2024, 29 September). Transform data by running a notebook. Microsoft. Retrieved 8 May, 2025, from [https://learn.microsoft.com/en-us/fabric/data-factory/notebook-activity](https://learn.microsoft.com/en-us/fabric/data-factory/notebook-activity).
+
+Microsoft. (2025, 18 January). Machine learning model in Microsoft Fabric. Microsoft. Retrieved 8 May, 2025, from [https://learn.microsoft.com/en-us/fabric/data-science/machine-learning-model](https://learn.microsoft.com/en-us/fabric/data-science/machine-learning-model).

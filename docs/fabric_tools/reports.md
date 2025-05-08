@@ -36,3 +36,9 @@
     ![Data Hub Power BI Desktop (Microsoft, 2025)](../images/data-hub-pbi-desktop.png)
     <figcaption>Data Hub Power BI Desktop (Microsoft, 2025)</figcaption>
     </figure>
+
+<div style="display: flex; justify-content: space-between;" markdown="1">
+
+[:material-arrow-left: ML Model](./ml_model.md){ .md-button }
+
+</div>
