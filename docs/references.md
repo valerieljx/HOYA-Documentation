@@ -97,4 +97,18 @@ Microsoft. (2024, 19 November). Create a table in SQL database in Fabric. Micros
 
 Microsoft. (2024, 19 November). Query your SQL database in Fabric. Microsoft. Retrieved 7 May, 2025, from [https://learn.microsoft.com/en-us/fabric/database/sql/query](https://learn.microsoft.com/en-us/fabric/database/sql/query).
 
-Microsoft (2025, 2 April). Sharepoint folder. Microsoft. Retrieved 7 May, 2025, from [https://learn.microsoft.com/en-us/power-query/connectors/sharepoint-folder](https://learn.microsoft.com/en-us/power-query/connectors/sharepoint-folder).
+Microsoft. (2025, 2 April). Sharepoint folder. Microsoft. Retrieved 7 May, 2025, from [https://learn.microsoft.com/en-us/power-query/connectors/sharepoint-folder](https://learn.microsoft.com/en-us/power-query/connectors/sharepoint-folder).
+
+Microsoft. (2025, 6 April). Ingest data into your Warehouse using data pipelines. Microsoft. Retrieved 7 May, 2025, from [https://learn.microsoft.com/en-us/fabric/data-warehouse/ingest-data-pipelines](https://learn.microsoft.com/en-us/fabric/data-warehouse/ingest-data-pipelines).
+
+Microsoft. (2024, 16 September). Activity Overview. Microsoft. Retrieved 7 May, 2025, from [https://learn.microsoft.com/en-us/fabric/data-factory/activity-overview](https://learn.microsoft.com/en-us/fabric/data-factory/activity-overview).
+
+Microsoft. (2024, 3 September). How to copy data using copy activity. Microsoft. Retrieved 7 May, 2025, from [https://learn.microsoft.com/en-us/fabric/data-factory/copy-data-activity](https://learn.microsoft.com/en-us/fabric/data-factory/copy-data-activity).
+
+Microsoft. (2024, 19 November). Use the Semantic model refresh activity to refresh a Power BI Dataset (Preview). Microsoft. Retrieved 8 May, 2025, from [https://learn.microsoft.com/en-us/fabric/data-factory/semantic-model-refresh-activity](https://learn.microsoft.com/en-us/fabric/data-factory/semantic-model-refresh-activity).
+
+Microsoft. (2025, 23 April). Use the Dataflow activity to run a Dataflow Gen2. Microsoft. Retrieved 8 May, 2025, from [https://learn.microsoft.com/en-us/fabric/data-factory/dataflow-activity](https://learn.microsoft.com/en-us/fabric/data-factory/dataflow-activity).
+
+Microsoft. (2025, 4 February). Use the Invoke pipeline activity to run another pipeline. Microsoft. Retrieved 8 May, 2025, from [https://learn.microsoft.com/en-us/fabric/data-factory/invoke-pipeline-activity](https://learn.microsoft.com/en-us/fabric/data-factory/invoke-pipeline-activity).
+
+Microsoft. (2024, 29 September). Transform data by running a notebook. Microsoft. Retrieved 8 May, 2025, from [https://learn.microsoft.com/en-us/fabric/data-factory/notebook-activity](https://learn.microsoft.com/en-us/fabric/data-factory/notebook-activity).
