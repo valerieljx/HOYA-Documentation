@@ -117,7 +117,8 @@ nav:
     - Snowflake Schema: architecture/snowflake.md
     - Data Model Relationships: architecture/relationships.md
     - Naming Convention: architecture/naming_convention.md
-  - Automation: automation.md
+  - Automation:
+    - STRAVIS Automation: automation/stravis_automation.md
   - Inforiver: inforiver.md
   - References: references.md
 

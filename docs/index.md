@@ -40,6 +40,7 @@ search:
     - [Data Model Relationships](./architecture/relationships.md)
     - [Fact Design](./architecture/fact_design.md)
 
-5. [Automation]()
+5. Automation
+    - [STRAVIS Automation](./automation/stravis_automation.md)
 
 6. [References](./references.md)
