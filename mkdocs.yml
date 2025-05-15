@@ -119,6 +119,7 @@ nav:
     - Naming Convention: architecture/naming_convention.md
   - Automation:
     - STRAVIS Automation: automation/stravis_automation.md
+    - SAP Automation: automation/sap_automation.md
   - Inforiver: inforiver.md
   - References: references.md
 

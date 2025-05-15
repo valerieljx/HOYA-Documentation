@@ -42,5 +42,6 @@ search:
 
 5. Automation
     - [STRAVIS Automation](./automation/stravis_automation.md)
+    - [SAP Automation](./automation/sap_automation.md)
 
 6. [References](./references.md)
