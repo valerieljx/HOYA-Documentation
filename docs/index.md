@@ -32,6 +32,13 @@ search:
     - [ML Model](fabric_tools/ml_model.md)
     - [Reports](fabric_tools/reports.md)
 
+4. Programming Tools
+    - [Git](./programming_tools/git.md)
+
+5. Power BI
+    - [VertiPaq Engine](./power_bi/vertipaq.md)
+    - [Best Dashboard Design Practices](./power_bi/best_design_pracs.md)
+
 4. Architecture
     - [Star Schema Design](./architecture/star_schema.md)
     - [Snowflake Schema](./architecture/snowflake.md)

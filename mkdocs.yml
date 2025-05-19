@@ -108,7 +108,10 @@ nav:
     - Pipelines: fabric_tools/pipelines.md
     - ML Model: fabric_tools/ml_model.md
     - Reports: fabric_tools/reports.md
+  - Programming Tools:
+    - Git: programming_tools/git.md
   - Power BI:
+    - Best Dashboard Design Practices: power_bi/best_design_pracs.md
     - VertiPaq Engine: power_bi/vertipaq.md
   - Architecture:
     - Star Schema Design: architecture/star_schema.md
