@@ -114,3 +114,5 @@ Microsoft. (2025, 4 February). Use the Invoke pipeline activity to run another p
 Microsoft. (2024, 29 September). Transform data by running a notebook. Microsoft. Retrieved 8 May, 2025, from [https://learn.microsoft.com/en-us/fabric/data-factory/notebook-activity](https://learn.microsoft.com/en-us/fabric/data-factory/notebook-activity).
 
 Microsoft. (2025, 18 January). Machine learning model in Microsoft Fabric. Microsoft. Retrieved 8 May, 2025, from [https://learn.microsoft.com/en-us/fabric/data-science/machine-learning-model](https://learn.microsoft.com/en-us/fabric/data-science/machine-learning-model).
+
+Aparna K S. (2025, 10 January). Top 10 Power BI Dashboard UI/UX Design Best Practices. aufaitUX. Retrieved 19 May, 2025, from [https://www.aufaitux.com/blog/power-bi-dashboard-design-best-practices/](https://www.aufaitux.com/blog/power-bi-dashboard-design-best-practices/).
