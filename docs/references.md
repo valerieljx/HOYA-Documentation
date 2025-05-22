@@ -116,3 +116,9 @@ Microsoft. (2024, 29 September). Transform data by running a notebook. Microsoft
 Microsoft. (2025, 18 January). Machine learning model in Microsoft Fabric. Microsoft. Retrieved 8 May, 2025, from [https://learn.microsoft.com/en-us/fabric/data-science/machine-learning-model](https://learn.microsoft.com/en-us/fabric/data-science/machine-learning-model).
 
 Aparna K S. (2025, 10 January). Top 10 Power BI Dashboard UI/UX Design Best Practices. aufaitUX. Retrieved 19 May, 2025, from [https://www.aufaitux.com/blog/power-bi-dashboard-design-best-practices/](https://www.aufaitux.com/blog/power-bi-dashboard-design-best-practices/).
+
+Numerro. (2022, 21 July). The Complete Guide to Designing Power BI Reports. Numerro. Retrieved 19 May, 2025, from [https://www.numerro.io/guides/the-complete-guide-to-designing-power-bi-reports](https://www.numerro.io/guides/the-complete-guide-to-designing-power-bi-reports).
+
+Numerro. Design Checklist. Numerro. Retrieved 19 May, 2025, from [https://www.numerro.io/data-visualization-design-tips/design-checklist](https://www.numerro.io/data-visualization-design-tips/design-checklist).
+
+HubSpot Product Team. (2020, 3 December). Hubspot. Retrieved 22 May, 2025, from [https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners). 
