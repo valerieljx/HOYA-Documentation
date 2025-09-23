@@ -3,24 +3,40 @@
     width: auto;
   }
 
-/* Global link color */
-a,
-.md-typeset a {
-  color: #0057B8;
+/* Light mode link styles */
+html[data-md-color-scheme="hso"] a,
+html[data-md-color-scheme="hso"] .md-typeset a {
+  color: #0057B8; /* Current blue for light mode */
   text-decoration: none;
 }
 
-/* Hover state: slightly lighter */
-a:hover,
-.md-typeset a:hover {
-  color: #1a6fde;  /* Slightly lighter shade of #0057B8 */
+html[data-md-color-scheme="hso"] a:hover,
+html[data-md-color-scheme="hso"] .md-typeset a:hover {
+  color: #1a6fde; /* Slightly lighter shade for hover in light mode */
   text-decoration: underline;
 }
 
-/* Visited link */
-a:visited,
-.md-typeset a:visited {
-  color: #0057B8;
+html[data-md-color-scheme="hso"] a:visited,
+html[data-md-color-scheme="hso"] .md-typeset a:visited {
+  color: #0057B8; /* Visited link color for light mode */
+}
+
+/* Dark mode link styles */
+html[data-md-color-scheme="hso-dark"] a,
+html[data-md-color-scheme="hso-dark"] .md-typeset a {
+  color: #4A90E2; /* Lighter blue for dark mode */
+  text-decoration: none;
+}
+
+html[data-md-color-scheme="hso-dark"] a:hover,
+html[data-md-color-scheme="hso-dark"] .md-typeset a:hover {
+  color: #5096ff; /* Even lighter blue for hover in dark mode */
+  text-decoration: underline;
+}
+
+html[data-md-color-scheme="hso-dark"] a:visited,
+html[data-md-color-scheme="hso-dark"] .md-typeset a:visited {
+  color: #4A90E2; /* Visited link color for dark mode */
 }
 
 /* Ensure top nav links (tabs) are white and visible */
@@ -43,19 +59,111 @@ a:visited,
     text-decoration: underline;
   }
 
-html[data-md-color-scheme="hso-dark"] a,
-html[data-md-color-scheme="hso-dark"] .md-typeset a {
-color: white !important;
+/* ===== Force white placeholder text and search input styling ===== */
+[data-md-color-scheme="hso-dark"] input.md-search__input,
+[data-md-color-scheme="hso-dark"] .md-search__input,
+[data-md-color-scheme="hso-dark"] input.md-search__input[type="text"],
+[data-md-color-scheme="hso-dark"] input.md-search__input::placeholder,
+[data-md-color-scheme="hso-dark"] .md-search__input::placeholder,
+[data-md-color-scheme="hso-dark"] input::placeholder {
+  color: white !important;
+  opacity: 1 !important;
+  background-color: #0f172a !important;
 }
 
-html[data-md-color-scheme="hso-dark"] a:hover,
-html[data-md-color-scheme="hso-dark"] .md-typeset a:hover {
-color: #cccccc !important;
-text-decoration: underline;
+/* Fix for search bar text */
+[data-md-color-scheme="hso-dark"] .md-search__form {
+  color: white !important;
+  background-color: #0f172a !important;
 }
 
-html[data-md-color-scheme="hso-dark"] a:visited,
-html[data-md-color-scheme="hso-dark"] .md-typeset a:visited {
-color: white !important;
+/* Fix for the entire output panel */
+[data-md-color-scheme="hso-dark"] .md-search__output {
+  background-color: #1f2937 !important;
+  color: white !important;
 }
-  
+
+/* Catch any span inside search message */
+[data-md-color-scheme="hso-dark"] .md-search__message,
+[data-md-color-scheme="hso-dark"] .md-search__message span,
+[data-md-color-scheme="hso-dark"] .md-search__message * {
+  color: white !important;
+}
+
+/* Result title */
+[data-md-color-scheme="hso-dark"] .md-search-result__title {
+  color: #f8fafc !important;
+  font-weight: 600;
+}
+
+/* Snippet text (main problem you're seeing) */
+[data-md-color-scheme="hso-dark"] .md-search-result__teaser {
+  color: #cbd5e1 !important;
+}
+
+/* Matched keywords */
+[data-md-color-scheme="hso-dark"] .md-search-result mark {
+  background-color: #3b82f6 !important;
+  color: #ffffff !important;
+}
+
+/* Metadata like breadcrumbs or section */
+[data-md-color-scheme="hso-dark"] .md-search-result__meta {
+  color: #94a3b8 !important;
+}
+
+/* "X more on this page" */
+[data-md-color-scheme="hso-dark"] .md-search-result__more {
+  color: #93c5fd !important;
+}
+
+[data-md-color-scheme="hso-dark"] .md-search-result__teaser .md-typeset,
+[data-md-color-scheme="hso-dark"] .md-search-result__teaser .md-typeset * {
+  color: #cbd5e1 !important;
+}
+/* Set all body text inside search results to light color in dark mode */
+body[data-md-color-scheme="hso-dark"] .md-search__output * {
+  color: #cbd5e1 !important;
+}
+
+/* Set title/headings even lighter */
+body[data-md-color-scheme="hso-dark"] .md-search__output h1,
+body[data-md-color-scheme="hso-dark"] .md-search__output h2,
+body[data-md-color-scheme="hso-dark"] .md-search__output strong {
+  color: #f8fafc !important;
+  font-weight: 600 !important;
+}
+
+/* Fix code blocks */
+body[data-md-color-scheme="hso-dark"] .md-search__output pre,
+body[data-md-color-scheme="hso-dark"] .md-search__output code {
+  background-color: #0f172a !important;
+  color: #e2e8f0 !important;
+}
+
+/* Fix links inside results */
+body[data-md-color-scheme="hso-dark"] .md-search__output a {
+  color: #93c5fd !important;
+}
+
+/* Improve dark mode code block readability */
+[data-md-color-scheme="hso-dark"] code,
+[data-md-color-scheme="hso-dark"] pre code {
+  background-color: #0f172a !important;
+  color: #e2e8f0 !important;
+  font-family: 'Fira Code', monospace;
+  font-size: 14px;
+  line-height: 1.5;
+  border-radius: 6px;
+  padding: 0.5em;
+  overflow-x: auto;
+}
+
+/* Syntax colors */
+[data-md-color-scheme="hso-dark"] .highlight .k  { color: #7dd3fc !important; }  /* keywords */
+[data-md-color-scheme="hso-dark"] .highlight .c  { color: #a5b4fc !important; }  /* comments (updated) */
+[data-md-color-scheme="hso-dark"] .highlight .s  { color: #f472b6 !important; }  /* strings */
+[data-md-color-scheme="hso-dark"] .highlight .n  { color: #f1f5f9 !important; }  /* names */
+[data-md-color-scheme="hso-dark"] .highlight .o  { color: #fb923c !important; }  /* operators */
+[data-md-color-scheme="hso-dark"] .highlight .p  { color: #f1f5f9 !important; }  /* punctuation */
+[data-md-color-scheme="hso-dark"] .highlight .mi { color: #a5f3fc !important; }  /* numbers */

@@ -1,8 +1,8 @@
-site_name: Finance Documentation
+site_name: HOYA Documentation
 # Project information
-site_description: Documentation for Finance Fabric and Automation
-site_author: Nodoka Kushioka
-site_url: https://nodokak1.github.io/Documentation
+site_description: Documentation for Global Finance
+site_author: Nodoka Kushioka and Valerie Lim
+site_url: https://valerieljx.github.io/HOYA-Documentation/
 
 # Copyright
 copyright: Copyright &copy; 2025 HOYA Surgical Optics
@@ -123,6 +123,9 @@ nav:
   - Automation:
     - STRAVIS Automation: automation/stravis_automation.md
     - SAP Automation: automation/sap_automation.md
+  - Finance and Accounting:
+    - General Finance and Accounting Terms: finance_terms/finance_accounting_terms.md
+    - Finance KPIs: finance_terms/finance_kpi.md
   - Inforiver: inforiver.md
   - References: references.md
 
