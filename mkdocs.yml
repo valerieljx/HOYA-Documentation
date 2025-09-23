@@ -16,7 +16,7 @@ theme:
     - navigation.tracking
     - navigation.tabs
     - navigation.sections
-    - navigation.indexes
+   # - navigation.indexes
     - navigation.expand
     - navigation.top
     - search.suggest
@@ -99,7 +99,7 @@ nav:
         - OneLake: terminology/onelake.md
     - Finance Terminology:
         - Financial and Accounting Terms: finance_terms/finance_accounting_terms.md
-        - Finance KPIs: finance_terms/finance_kpi.md
+        - Finance KPIs: finance_terms/financial_kpi.md
   - Using Fabric Tools:
     - Lakehouse: fabric_tools/lakehouse.md
     - SQL Analytics Endpoint: fabric_tools/sql_endpoint.md
