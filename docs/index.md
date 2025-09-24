@@ -1,5 +1,3 @@
-<!-- docs/index.md -->
-
 <h1>Table of Contents</h1>
 <ol>
   <li><a href="introduction/">Introduction</a></li>
