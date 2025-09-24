@@ -2,192 +2,192 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://valerieljx.github.io/HOYA-Documentation/</loc>
-         <lastmod>2025-09-23</lastmod>
+         <lastmod>2025-09-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://valerieljx.github.io/HOYA-Documentation/inforiver/</loc>
-         <lastmod>2025-09-23</lastmod>
+         <lastmod>2025-09-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://valerieljx.github.io/HOYA-Documentation/introduction/</loc>
-         <lastmod>2025-09-23</lastmod>
+         <lastmod>2025-09-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://valerieljx.github.io/HOYA-Documentation/references/</loc>
-         <lastmod>2025-09-23</lastmod>
+         <lastmod>2025-09-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://valerieljx.github.io/HOYA-Documentation/architecture/dimension_design/</loc>
-         <lastmod>2025-09-23</lastmod>
+         <lastmod>2025-09-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://valerieljx.github.io/HOYA-Documentation/architecture/fact_design/</loc>
-         <lastmod>2025-09-23</lastmod>
+         <lastmod>2025-09-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://valerieljx.github.io/HOYA-Documentation/architecture/naming_convention/</loc>
-         <lastmod>2025-09-23</lastmod>
+         <lastmod>2025-09-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://valerieljx.github.io/HOYA-Documentation/architecture/relationships/</loc>
-         <lastmod>2025-09-23</lastmod>
+         <lastmod>2025-09-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://valerieljx.github.io/HOYA-Documentation/architecture/snowflake/</loc>
-         <lastmod>2025-09-23</lastmod>
+         <lastmod>2025-09-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://valerieljx.github.io/HOYA-Documentation/architecture/star_schema/</loc>
-         <lastmod>2025-09-23</lastmod>
+         <lastmod>2025-09-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://valerieljx.github.io/HOYA-Documentation/automation/sap_automation/</loc>
-         <lastmod>2025-09-23</lastmod>
+         <lastmod>2025-09-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://valerieljx.github.io/HOYA-Documentation/automation/stravis_automation/</loc>
-         <lastmod>2025-09-23</lastmod>
+         <lastmod>2025-09-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://valerieljx.github.io/HOYA-Documentation/fabric_tools/dataflow/</loc>
-         <lastmod>2025-09-23</lastmod>
+         <lastmod>2025-09-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://valerieljx.github.io/HOYA-Documentation/fabric_tools/lakehouse/</loc>
-         <lastmod>2025-09-23</lastmod>
+         <lastmod>2025-09-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://valerieljx.github.io/HOYA-Documentation/fabric_tools/ml_model/</loc>
-         <lastmod>2025-09-23</lastmod>
+         <lastmod>2025-09-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://valerieljx.github.io/HOYA-Documentation/fabric_tools/notebook/</loc>
-         <lastmod>2025-09-23</lastmod>
+         <lastmod>2025-09-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://valerieljx.github.io/HOYA-Documentation/fabric_tools/pipelines/</loc>
-         <lastmod>2025-09-23</lastmod>
+         <lastmod>2025-09-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://valerieljx.github.io/HOYA-Documentation/fabric_tools/reports/</loc>
-         <lastmod>2025-09-23</lastmod>
+         <lastmod>2025-09-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://valerieljx.github.io/HOYA-Documentation/fabric_tools/semantic_model/</loc>
-         <lastmod>2025-09-23</lastmod>
+         <lastmod>2025-09-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://valerieljx.github.io/HOYA-Documentation/fabric_tools/sql_database/</loc>
-         <lastmod>2025-09-23</lastmod>
+         <lastmod>2025-09-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://valerieljx.github.io/HOYA-Documentation/fabric_tools/sql_endpoint/</loc>
-         <lastmod>2025-09-23</lastmod>
+         <lastmod>2025-09-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://valerieljx.github.io/HOYA-Documentation/fabric_tools/warehouse/</loc>
-         <lastmod>2025-09-23</lastmod>
+         <lastmod>2025-09-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://valerieljx.github.io/HOYA-Documentation/finance_terms/finance_accounting_terms/</loc>
-         <lastmod>2025-09-23</lastmod>
+         <lastmod>2025-09-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://valerieljx.github.io/HOYA-Documentation/finance_terms/finance_kpi/</loc>
-         <lastmod>2025-09-23</lastmod>
+         <lastmod>2025-09-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://valerieljx.github.io/HOYA-Documentation/general_terminology/big_data/</loc>
-         <lastmod>2025-09-23</lastmod>
+         <lastmod>2025-09-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://valerieljx.github.io/HOYA-Documentation/general_terminology/data_analytics/</loc>
-         <lastmod>2025-09-23</lastmod>
+         <lastmod>2025-09-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://valerieljx.github.io/HOYA-Documentation/general_terminology/data_engineering/</loc>
-         <lastmod>2025-09-23</lastmod>
+         <lastmod>2025-09-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://valerieljx.github.io/HOYA-Documentation/general_terminology/data_science/</loc>
-         <lastmod>2025-09-23</lastmod>
+         <lastmod>2025-09-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://valerieljx.github.io/HOYA-Documentation/general_terminology/data_viz/</loc>
-         <lastmod>2025-09-23</lastmod>
+         <lastmod>2025-09-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://valerieljx.github.io/HOYA-Documentation/general_terminology/languages/</loc>
-         <lastmod>2025-09-23</lastmod>
+         <lastmod>2025-09-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://valerieljx.github.io/HOYA-Documentation/power_bi/best_design_pracs/</loc>
-         <lastmod>2025-09-23</lastmod>
+         <lastmod>2025-09-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://valerieljx.github.io/HOYA-Documentation/power_bi/vertipaq/</loc>
-         <lastmod>2025-09-23</lastmod>
+         <lastmod>2025-09-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://valerieljx.github.io/HOYA-Documentation/programming_tools/git/</loc>
-         <lastmod>2025-09-23</lastmod>
+         <lastmod>2025-09-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://valerieljx.github.io/HOYA-Documentation/terminology/analyze_train_data/</loc>
-         <lastmod>2025-09-23</lastmod>
+         <lastmod>2025-09-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://valerieljx.github.io/HOYA-Documentation/terminology/get_data/</loc>
-         <lastmod>2025-09-23</lastmod>
+         <lastmod>2025-09-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://valerieljx.github.io/HOYA-Documentation/terminology/onelake/</loc>
-         <lastmod>2025-09-23</lastmod>
+         <lastmod>2025-09-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://valerieljx.github.io/HOYA-Documentation/terminology/prepare_data/</loc>
-         <lastmod>2025-09-23</lastmod>
+         <lastmod>2025-09-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://valerieljx.github.io/HOYA-Documentation/terminology/store_data/</loc>
-         <lastmod>2025-09-23</lastmod>
+         <lastmod>2025-09-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
