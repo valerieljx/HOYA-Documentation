@@ -100,6 +100,8 @@ nav:
     - Finance Terminology:
         - Financial and Accounting Terms: finance_terms/finance_accounting_terms.md
         - Finance KPIs: finance_terms/finance_kpi.md
+    - Calendar Terminology:
+        - Calendar Systems and Accounting Period: general_terminology/calendar_types.md
   - Using Fabric Tools:
     - Lakehouse: fabric_tools/lakehouse.md
     - SQL Analytics Endpoint: fabric_tools/sql_endpoint.md
