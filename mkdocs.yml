@@ -85,51 +85,51 @@ nav:
   - Introduction: introduction.md
   - Terminology:
     - General Terminology:
-        - Programming Languages: general_terminology/languages.md
-        - Big Data: general_terminology/big_data.md
-        - Data Engineering: general_terminology/data_engineering.md
-        - Data Analytics: general_terminology/data_analytics.md
-        - Data Visualization: general_terminology/data_viz.md
-        - Data Science: general_terminology/data_science.md
+        - Programming Languages: docs/general_terminology/languages.md
+        - Big Data: docs/general_terminology/big_data.md
+        - Data Engineering: docs/general_terminology/data_engineering.md
+        - Data Analytics: docs/general_terminology/data_analytics.md
+        - Data Visualization: docs/general_terminology/data_viz.md
+        - Data Science: docs/general_terminology/data_science.md
     - Fabric Terminology:
-        - Get Data: terminology/get_data.md
-        - Store Data: terminology/store_data.md
-        - Prepare Data: terminology/prepare_data.md
-        - Analyze and Train Data: terminology/analyze_train_data.md
-        - OneLake: terminology/onelake.md
+        - Get Data: docs/terminology/get_data.md
+        - Store Data: docs/terminology/store_data.md
+        - Prepare Data: docs/terminology/prepare_data.md
+        - Analyze and Train Data: docs/terminology/analyze_train_data.md
+        - OneLake: docs/terminology/onelake.md
     - Finance Terminology:
-        - Financial and Accounting Terms: finance_terms/finance_accounting_terms.md
-        - Finance KPIs: finance_terms/finance_kpi.md
+        - Financial and Accounting Terms: docs/finance_terms/finance_accounting_terms.md
+        - Finance KPIs: docs/finance_terms/finance_kpi.md
     - Calendar Terminology:
-        - Calendar Systems and Accounting Period: general_terminology/calendar_types.md
+        - Calendar Systems and Accounting Period: docs/general_terminology/calendar_types.md
   - Using Fabric Tools:
-    - Lakehouse: fabric_tools/lakehouse.md
-    - SQL Analytics Endpoint: fabric_tools/sql_endpoint.md
-    - Notebook: fabric_tools/notebook.md
-    - Semantic Model: fabric_tools/semantic_model.md
-    - Warehouse: fabric_tools/warehouse.md
-    - SQL Database: fabric_tools/sql_database.md
-    - Dataflow: fabric_tools/dataflow.md
-    - Pipelines: fabric_tools/pipelines.md
-    - ML Model: fabric_tools/ml_model.md
-    - Reports: fabric_tools/reports.md
+    - Lakehouse: docs/fabric_tools/lakehouse.md
+    - SQL Analytics Endpoint: docs/fabric_tools/sql_endpoint.md
+    - Notebook: docs/fabric_tools/notebook.md
+    - Semantic Model: docs/fabric_tools/semantic_model.md
+    - Warehouse: docs/fabric_tools/warehouse.md
+    - SQL Database: docs/fabric_tools/sql_database.md
+    - Dataflow: docs/fabric_tools/dataflow.md
+    - Pipelines: docs/fabric_tools/pipelines.md
+    - ML Model: docs/fabric_tools/ml_model.md
+    - Reports: docs/fabric_tools/reports.md
   - Programming Tools:
-    - Git: programming_tools/git.md
+    - Git: docs/programming_tools/git.md
   - Power BI:
-    - Best Dashboard Design Practices: power_bi/best_design_pracs.md
-    - VertiPaq Engine: power_bi/vertipaq.md
+    - Best Dashboard Design Practices: docs/power_bi/best_design_pracs.md
+    - VertiPaq Engine: docs/power_bi/vertipaq.md
   - Architecture:
-    - Star Schema Design: architecture/star_schema.md
-    - Dimension Design: architecture/dimension_design.md
-    - Fact Design: architecture/fact_design.md
-    - Snowflake Schema: architecture/snowflake.md
-    - Data Model Relationships: architecture/relationships.md
-    - Naming Convention: architecture/naming_convention.md
+    - Star Schema Design: docs/architecture/star_schema.md
+    - Dimension Design: docs/architecture/dimension_design.md
+    - Fact Design: docs/architecture/fact_design.md
+    - Snowflake Schema: docs/architecture/snowflake.md
+    - Data Model Relationships: docs/architecture/relationships.md
+    - Naming Convention: docs/architecture/naming_convention.md
   - Automation:
-    - STRAVIS Automation: automation/stravis_automation.md
-    - SAP Automation: automation/sap_automation.md
-  - Inforiver: inforiver.md
-  - References: references.md
+    - STRAVIS Automation: docs/automation/stravis_automation.md
+    - SAP Automation: docs/automation/sap_automation.md
+  - Inforiver: docs/inforiver.md
+  - References: docs/references.md
 
 # Additional settings
 extra:
