@@ -63,6 +63,11 @@ Fiscal calendars shift the start of the year to better align with operational or
 
 ### Japan Fiscal Calendar (April to March)
 
+<figure markdown="span">
+![Fiscal Calendar](../images/fiscal-calendar.png)
+<figcaption>Example of Fiscal Calendar </figcaption>
+</figure>
+
 **Structure:**
 - Fiscal Year starts in **April**
 - Ends in **March**
@@ -106,6 +111,11 @@ A fiscal year in SAP typically consists of:
 
 ### SAP Period Structure
 
+<figure markdown="span">
+![SAP Calendar](../images/sap-calendar.png)
+<figcaption>Sap Period </figcaption>
+</figure>
+
 - Periods **1–12**  
   - Correspond to standard operating months within the fiscal year
 - Periods **13–16**  
@@ -132,6 +142,11 @@ Example:
 SAP periods are accounting constructs and should not be assumed to map one-to-one with calendar months.
 
 ## Example: Fiscal Year and SAP Period Mapping
+
+<figure markdown="span">
+![Comparison-calendar](../images/comparison-calendar.png.png)
+<figcaption>Fiscal Year vs SAP Period </figcaption>
+</figure>
 
 Based on the current budgeting setup:
 
@@ -200,7 +215,7 @@ The expectations for each period differ depending on whether the submission is:
 The figure below illustrates how *Actuals* and *Forecasts* should be populated across the fiscal year for each budgeting cycle.
 
 <figure markdown="span">
-![Submission Requirements](../images/submission-requirement.png)
+![Submission Requirements](../images/submission_requirements.png)
 <figcaption>Submission Requirement </figcaption>
 </figure>
 
