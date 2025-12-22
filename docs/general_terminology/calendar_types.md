@@ -3,6 +3,7 @@
 Different teams, regions, and systems use **different calendar definitions** for budgeting, forecasting, and reporting.  
 
 Misalignment between calendar definitions is a common cause of:
+
 - Budget vs actual mismatches
 - Incorrect variance analysis
 - Confusion around year-to-date (YTD) reporting
@@ -21,6 +22,7 @@ Misalignment between calendar definitions is a common cause of:
 - A **company-defined 12-month reporting period**
 - Does not necessarily align with the calendar year
 - Typically named by its **ending year**
+
   - Example: FY25 ends in 2025
 
 Fiscal years are used for:
@@ -32,6 +34,7 @@ Fiscal years are used for:
 - A subdivision of a fiscal year
 - Often monthly, but system-dependent
 - Used for:
+
   - Financial closing
   - Budget tracking
   - Variance analysis
@@ -40,6 +43,7 @@ Fiscal years are used for:
 
 ### Definition
 The standard calendar follows the Gregorian calendar:
+
 - January (1) through December (12)
 - Year boundaries align with the calendar year
 
@@ -63,22 +67,23 @@ Fiscal calendars shift the start of the year to better align with operational or
 
 ### Japan Fiscal Calendar (April to March)
 
-<figure markdown="span">
 ![Fiscal Calendar](../images/fiscal-calendar.png)
-<figcaption>Example of Fiscal Calendar </figcaption>
-</figure>
 
 **Structure:**
+
 - Fiscal Year starts in **April**
 - Ends in **March**
 - Example:
+
   - FY25 = April 2024 to March 2025
 
 **Common Usage:**
+
 - Japanese companies
 - Subsidiaries reporting into Japan headquarters
 
 **Implications:**
+
 - Q1 = April to June
 - Fiscal year crosses calendar year boundaries
 - Calendar-based data must be remapped for fiscal reporting
@@ -86,16 +91,19 @@ Fiscal calendars shift the start of the year to better align with operational or
 ### Singapore / Regional Fiscal Calendar (July to June)
 
 **Structure:**
+
 - Fiscal Year starts in **July**
 - Ends in **June**
 - Example:
   - FY25 = July 2024 to June 2025
 
 **Common Usage:**
+
 - Some Singapore-based or APAC regional organisations
 - Government-linked or education-related entities
 
 **Implications:**
+
 - Budget cycles reset mid-calendar year
 - Year-over-year comparisons require fiscal alignment
 
@@ -106,15 +114,13 @@ Fiscal calendars shift the start of the year to better align with operational or
 SAP uses **posting periods** rather than relying purely on calendar months.
 
 A fiscal year in SAP typically consists of:
+
 - **12 normal operating periods**
 - **Additional adjustment periods**
 
 ### SAP Period Structure
 
-<figure markdown="span">
 ![SAP Calendar](../images/sap-calendar.png)
-<figcaption>Sap Period </figcaption>
-</figure>
 
 - Periods **1–12**  
   - Correspond to standard operating months within the fiscal year
@@ -127,11 +133,13 @@ These additional periods **do not represent new calendar months**.
 ### Purpose of SAP Adjustment Periods (13–16)
 
 Adjustment periods exist to:
+
 - Allow audit and accrual postings
 - Prevent reopening closed operational periods
 - Maintain clean month-end and year-end closes
 
 Example:
+
 - Period 12 is closed
 - Adjustments are posted to Period 13–16 instead
 
@@ -143,15 +151,13 @@ SAP periods are accounting constructs and should not be assumed to map one-to-on
 
 ## Example: Fiscal Year and SAP Period Mapping
 
-<figure markdown="span">
-![Comparison-calendar](../images/comparison-calendar.png.png)
-<figcaption>Fiscal Year vs SAP Period </figcaption>
-</figure>
+![Comparison-calendar](../images/comparison-calendar.png)
 
 Based on the current budgeting setup:
 
 - Fiscal Year FY25 starts in **April 2025**
 - Period mapping:
+
   - Period 1 → April 2025
   - Period 2 → May 2025
   - …
@@ -185,12 +191,14 @@ Based on the current budgeting setup:
 
 ### Always State the Calendar Definition
 Every report or dataset should clearly specify:
+
 - Calendar type
 - Fiscal year start month
 - Period definition (SAP vs calendar)
 
 ### Avoid Implicit Calendar Mixing
 Do not:
+
 - Assume Period 1 is January
 - Aggregate SAP periods as if they are calendar months
 - Mix regional fiscal calendars without reconciliation
@@ -198,6 +206,7 @@ Do not:
 ### Maintain a Calendar Mapping Table
 
 A central calendar reference should include:
+
 - Calendar date
 - Calendar month and year
 - Fiscal year
@@ -209,35 +218,39 @@ A central calendar reference should include:
 Budgeting and forecasting follow a **rolling period-based approach**, where each period transitions from *Forecast* to *Actual* as financial results are closed.
 
 The expectations for each period differ depending on whether the submission is:
+
 - **For Review**, or
 - **Final Submission**
 
 The figure below illustrates how *Actuals* and *Forecasts* should be populated across the fiscal year for each budgeting cycle.
 
-<figure markdown="span">
 ![Submission Requirements](../images/submission_requirements.png)
-<figcaption>Submission Requirement </figcaption>
-</figure>
 
 ## Key Definitions
 
 ### Actual
 - Financial results that have been:
+
   - Posted
   - Reviewed
   - Closed for the period
+
 - Actuals should not change after period close
 
 ### Forecast
 - Forward-looking estimates based on:
+
   - Latest business assumptions
   - Known risks and opportunities
+
 - Forecast values are updated each budgeting cycle until the period closes
 
 ### Rolling Forecast
 - As each month closes:
+
   - That period becomes **Actual**
   - Remaining future periods stay **Forecast**
+
 - The forecast horizon shifts forward month by month
 
 ## For Review Submissions
