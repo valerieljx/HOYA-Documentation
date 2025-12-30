@@ -20,12 +20,12 @@ A common source of confusion is deciding whether logic belongs in Power Query or
 
 | Task | Power Query | DAX |
 |----|------------|-----|
-| Data cleaning | ✅ | ❌ |
-| Data reshaping | ✅ | ❌ |
-| Aggregations | ❌ | ✅ |
-| KPIs and ratios | ❌ | ✅ |
-| User-driven logic | ❌ | ✅ |
-| Refresh-time logic | ✅ | ❌ |
+| Data cleaning | Y | N |
+| Data reshaping | Y | N |
+| Aggregations | N | Y |
+| KPIs and ratios | N | Y |
+| User-driven logic | N | Y |
+| Refresh-time logic | Y | N |
 
 **Design principle:**
 > Power Query prepares data; DAX analyzes it.
