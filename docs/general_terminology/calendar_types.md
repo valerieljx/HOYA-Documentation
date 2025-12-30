@@ -14,16 +14,17 @@ Misalignment between calendar definitions is a common cause of:
 - Runs from **1 January to 31 December**
 - Aligns exactly with the Gregorian calendar
 - Commonly used for:
-  - External reporting
-  - Public datasets
-  - Many US-based companies
+
+    - External reporting
+    - Public datasets
+    - Many US-based companies
 
 ### Fiscal Year (FY)
 - A **company-defined 12-month reporting period**
 - Does not necessarily align with the calendar year
 - Typically named by its **ending year**
 
-  - Example: FY25 ends in 2025
+    - Example: FY25 ends in 2025
 
 Fiscal years are used for:
 - Budgeting
@@ -35,9 +36,9 @@ Fiscal years are used for:
 - Often monthly, but system-dependent
 - Used for:
 
-  - Financial closing
-  - Budget tracking
-  - Variance analysis
+    - Financial closing
+    - Budget tracking
+    - Variance analysis
 
 ## 1. Standard (Calendar) Calendar
 
@@ -48,7 +49,6 @@ The standard calendar follows the Gregorian calendar:
 - Year boundaries align with the calendar year
 
 ### Typical Usage
-- Most US companies
 - External-facing financial communication
 - Simplified time-based analysis
 
@@ -65,7 +65,7 @@ The standard calendar follows the Gregorian calendar:
 
 Fiscal calendars shift the start of the year to better align with operational or regional business cycles.
 
-### Japan Fiscal Calendar (April to March)
+### Fiscal Calendar (April to March)
 
 ![Fiscal Calendar](../images/fiscal-calendar.png)
 
@@ -75,12 +75,7 @@ Fiscal calendars shift the start of the year to better align with operational or
 - Ends in **March**
 - Example:
 
-  - FY25 = April 2024 to March 2025
-
-**Common Usage:**
-
-- Japanese companies
-- Subsidiaries reporting into Japan headquarters
+    - FY25 = April 2024 to March 2025
 
 **Implications:**
 
@@ -88,19 +83,14 @@ Fiscal calendars shift the start of the year to better align with operational or
 - Fiscal year crosses calendar year boundaries
 - Calendar-based data must be remapped for fiscal reporting
 
-### Singapore / Regional Fiscal Calendar (July to June)
+### Regional Fiscal Calendar (July to June)
 
 **Structure:**
 
 - Fiscal Year starts in **July**
 - Ends in **June**
 - Example:
-  - FY25 = July 2024 to June 2025
-
-**Common Usage:**
-
-- Some Singapore-based or APAC regional organisations
-- Government-linked or education-related entities
+    - FY25 = July 2024 to June 2025
 
 **Implications:**
 
@@ -123,10 +113,13 @@ A fiscal year in SAP typically consists of:
 ![SAP Calendar](../images/sap-calendar.png)
 
 - Periods **1–12**  
-  - Correspond to standard operating months within the fiscal year
+
+    - Correspond to standard operating months within the fiscal year
+
 - Periods **13–16**  
-  - Special adjustment periods
-  - Used for year-end and post-closing entries
+
+    - Special adjustment periods
+    - Used for year-end and post-closing entries
 
 These additional periods **do not represent new calendar months**.
 
@@ -158,14 +151,14 @@ Based on the current budgeting setup:
 - Fiscal Year FY25 starts in **April 2025**
 - Period mapping:
 
-  - Period 1 → April 2025
-  - Period 2 → May 2025
-  - …
-  - Period 9 → December 2025
-  - Period 10 → January 2026
-  - Period 11 → February 2026
-  - Period 12 → March 2026
-  - Period 16 → Year-end adjustment (March 2026)
+    - Period 1 → April 2025
+    - Period 2 → May 2025
+    - …
+    - Period 9 → December 2025
+    - Period 10 → January 2026
+    - Period 11 → February 2026
+    - Period 12 → March 2026
+    - Period 16 → Year-end adjustment (March 2026)
 
 ### Key Observation
 
@@ -231,25 +224,25 @@ The figure below illustrates how *Actuals* and *Forecasts* should be populated a
 ### Actual
 - Financial results that have been:
 
-  - Posted
-  - Reviewed
-  - Closed for the period
+    - Posted
+    - Reviewed
+    - Closed for the period
 
 - Actuals should not change after period close
 
 ### Forecast
 - Forward-looking estimates based on:
 
-  - Latest business assumptions
-  - Known risks and opportunities
+    - Latest business assumptions
+    - Known risks and opportunities
 
 - Forecast values are updated each budgeting cycle until the period closes
 
 ### Rolling Forecast
 - As each month closes:
 
-  - That period becomes **Actual**
-  - Remaining future periods stay **Forecast**
+    - That period becomes **Actual**
+    - Remaining future periods stay **Forecast**
 
 - The forecast horizon shifts forward month by month
 

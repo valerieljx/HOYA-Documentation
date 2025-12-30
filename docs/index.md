@@ -58,6 +58,10 @@
     <ul>
       <li><a href="power_bi/best_design_pracs/">Best Dashboard Design Practices</a></li>
       <li><a href="power_bi/vertipaq/">VertiPaq Engine</a></li>
+      <li><a href="power_bi/dax_fundamental/">Dax Fundamentals</a></li>
+      <li><a href="power_bi/common_dax/">Common Dax</a></li>
+      <li><a href="power_bi/power_query/">Power Query</a></li>
+      <li><a href="power_bi/performance_optimisation/">Performance Optimisation</a></li>
     </ul>
   </li>
   <li>Architecture

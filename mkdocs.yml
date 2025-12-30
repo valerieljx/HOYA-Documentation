@@ -118,6 +118,10 @@ nav:
   - Power BI:
     - Best Dashboard Design Practices: power_bi/best_design_pracs.md
     - VertiPaq Engine: power_bi/vertipaq.md
+    - Dax Fundamentals: power_bi/dax_fundamental.md
+    - Common Dax: power_bi/common_dax.md
+    - Power Query: power_bi/power_query.md
+    - Performance Optimisation: power_bi/performance_optimisation.md
   - Architecture:
     - Star Schema Design: architecture/star_schema.md
     - Dimension Design: architecture/dimension_design.md

@@ -3,8 +3,6 @@
 ## 1. Overview
 Financial Key Performance Indicators (KPIs) are metrics used to evaluate a company’s financial health, operational efficiency, and overall performance. These KPIs are essential for tracking progress against strategic objectives, identifying areas for improvement, and making informed financial decisions.
 
----
-
 ## 2. Key KPI Formulas
 
 ### 2.1 Cash Conversion Cycle (CCC)
@@ -25,8 +23,6 @@ The **Cash Conversion Cycle (CCC)** measures the time (in days) it takes for a c
 
 **Interpretation:** Shorter CCC = better liquidity and efficiency.
 
----
-
 ### 2.2 DSI (Days Sales of Inventory)  
 This is primarily a **Supply Chain Management (SCM)** metric, used to measure how long (in days) it takes for inventory to be sold or used. It is typically **measured using units**.
 
@@ -37,8 +33,6 @@ This is primarily a **Supply Chain Management (SCM)** metric, used to measure ho
 - **GL Accounts Used:** Inventory (Balance Sheet), COGS (Income Statement).  
 - **Interpretation:** Measures how quickly inventory is sold or consumed.
 
----
-
 ### 2.3 VAW (Value Added Wages)  
 **Value Added Wages (VAW)** refers to the wages paid to employees as part of the value-added process in production or services. It reflects the company’s investment in human capital and can be used to assess labor productivity and contribution to value creation.
 
@@ -47,8 +41,6 @@ This is primarily a **Supply Chain Management (SCM)** metric, used to measure ho
 
 - **GL Accounts Used:** Payroll Expense (Operating Expense GL), Benefits Expense.  
 - **Interpretation:** Shows the share of value added distributed to employees, reflecting labor productivity.
-
----
 
 ## 3. Categories of Financial KPIs
 
@@ -66,8 +58,6 @@ This is primarily a **Supply Chain Management (SCM)** metric, used to measure ho
 **Interpretation:**  
 Higher margins, ROA, and ROE generally indicate stronger profitability, but should be benchmarked against industry peers.
 
----
-
 ### 3.2 Liquidity KPIs
 
 | KPI | Formula | GL Accounts Used | Purpose |
@@ -75,8 +65,6 @@ Higher margins, ROA, and ROE generally indicate stronger profitability, but shou
 | **Current Ratio** | Current Assets ÷ Current Liabilities | Cash, AR, Inventory vs. AP, Accruals, Short-Term Debt | Measures short-term solvency. |
 | **Quick Ratio (Acid Test)** | (Current Assets − Inventory) ÷ Current Liabilities | Cash, AR, Short-Term Investments vs. CL | Tests immediate liquidity without relying on inventory. |
 | **Cash Conversion Cycle (CCC)** | DIO + DSO − DPO | Inventory, AR, AP, COGS, Sales | Efficiency of working capital. |
-
----
 
 ### 3.3 Efficiency KPIs
 
@@ -86,8 +74,6 @@ Higher margins, ROA, and ROE generally indicate stronger profitability, but shou
 | **AR Turnover** | Net Credit Sales ÷ Avg. Accounts Receivable (AR) | Sales, Accounts Receivable | Collection efficiency. |
 | **AP Turnover** | COGS ÷ Avg. Accounts Payable (AP) | COGS, Accounts Payable | Supplier payment speed. |
 
----
-
 ### 3.4 Solvency KPIs
 
 | KPI | Formula | GL Accounts Used | Purpose |
@@ -95,8 +81,6 @@ Higher margins, ROA, and ROE generally indicate stronger profitability, but shou
 | **Debt-to-Equity** | Total Liabilities ÷ Shareholder’s Equity | Total Liabilities, Equity Accounts | Capital structure health. |
 | **Debt-to-Assets** | Total Liabilities ÷ Total Assets | Liabilities, Assets | Measures leverage. |
 | **Interest Coverage** | EBIT ÷ Interest Expense | Operating Profit (EBIT), Interest Expense | Ability to cover debt costs. |
-
----
 
 ### 3.5 Revenue KPIs
 
@@ -106,8 +90,6 @@ Higher margins, ROA, and ROE generally indicate stronger profitability, but shou
 | **Revenue Growth Rate** | ((Current Revenue − Previous Revenue) ÷ Previous Revenue) × 100 | Sales GL (Period over Period) | Growth tracking. |
 | **Sales per Employee** | Total Revenue ÷ Number of Employees | Sales GL, HR Headcount (non-GL) | Productivity measure. |
 
----
-
 ### 3.6 Cash Flow KPIs
 
 | KPI | Formula | GL Accounts Used | Purpose |
@@ -115,8 +97,6 @@ Higher margins, ROA, and ROE generally indicate stronger profitability, but shou
 | **Operating Cash Flow (OCF)** | Cash generated from Operations | GL: Operating Cash Flow (Cash Flow Statement) | Core business cash generation. |
 | **Free Cash Flow (FCF)** | Operating Cash Flow − Capital Expenditures | Operating Cash Flow, Capital Expenditures | Cash available after investments. |
 | **Cash Flow Margin** | (Operating Cash Flow ÷ Revenue) × 100 | Operating Cash Flow, Sales GL | Proportion of revenue turning into cash. |
-
----
 
 ## 4. Why Financial KPIs Matter
 
